@@ -14,6 +14,8 @@ import pandas as pd
 from pandasgwas.get_associations import get_associations_by_efo_id
 associations = get_associations_by_efo_id('EFO_0003898')
 
+#有時候會The request for https://www.ebi.ac.uk/gwas/rest/api/efoTraits/EFO_0003898/associations failed: response code was 500
+
 # 按照A欄位合併表格(strongest_risk_alleles有426個，associations有其他資訊)
 panda_A = pd.merge(associations.strongest_risk_alleles, associations.associations, on='associationId', how='outer')
 
@@ -188,14 +190,61 @@ panda_A = pd.read_csv('panda_A.csv')
 panda_S = pd.read_csv('panda_S.csv')
 gwas = pd.read_csv("gwas-association-downloaded_2024-08-09-EFO_0003898.tsv", sep="\t")
 
-###################正在和combining4data比對
+#先來刪除沒有在人類genome裡的
+ensembl = ensembl[ensembl['Genomic location (strand)'].str.match(r'^[0-9]|^X|^Y')]
+    #...pandas_A沒有 chromosome資訊。
+    #...pandas_S之前就處理好了。
+    # gwas 要先把 CHR_ID 5 x 6 抓出來當特例
+gwas_EX = gwas[gwas['CHR_ID'] == '5 x 6']
+gwas_EX.to_csv('gwas_EX.csv', index=False)
+gwas_dropped = gwas[gwas['CHR_ID'] != '5 x 6']
+gwas_dropped.to_csv('gwas.csv', index=False)
 
+gwas_dropped = gwas_dropped.dropna(subset=['CHR_ID', 'CHR_POS'])
+#沒有在人類genome裡的都刪除了
+#處理變數以便對照
+# 定義一個函數來處理觀測值
+def process_observation(obs):
+    parts = obs.split(':')
+    chromosome = str(parts[0])
+    
+    start_end = parts[1].split('-')
+    start = str(start_end[0])
+    end = str(start_end[1][:-1])  # 去除最後的+或-
+    
+    sign = str(start_end[1][-1])  # 獲取最後的+或-
+    
+    # 明確指定列名
+    return pd.Series([chromosome, start, end, sign], index=['ChromosomeName', 'Start', 'End', 'Strand'])
+result = ensembl['Genomic location (strand)'].apply(process_observation)
 
+# 使用 .loc 進行賦值
+ensembl.loc[:, ['ChromosomeName', 'Start', 'End', 'Strand']] = result
 
+#現在要從 panda_S, gwas, ensembl 找出unique rsId
+#先提取不同表格所需項，再看有沒有重複
+ensembl.columns
+panda_S.columns
+gwas_dropped.columns
+# 提取特定變數並重新命名
+extracted_ensembl = ensembl[['Name(s)', 'ChromosomeName', 'Start']].rename(columns={'Name(s)': 'dbSNP ID', 'ChromosomeName': 'Chromosome', 'Start': 'Position'})
+extracted_panda_S = panda_S[['rsId', 'chromosomeName', 'chromosomePosition']].rename(columns={'rsId': 'dbSNP ID', 'chromosomeName': 'Chromosome', 'chromosomePosition': 'Position'})
+extracted_gwas_dropped = gwas_dropped[['SNPS', 'CHR_ID', 'CHR_POS']].rename(columns={'SNPS': 'dbSNP ID', 'CHR_ID': 'Chromosome', 'CHR_POS': 'Position'})
 
+# 合併這些變數
+combined_df = pd.concat([extracted_ensembl, extracted_panda_S, extracted_gwas_dropped], ignore_index=True)
 
+# 將變數A轉換為str型
+combined_df['Position'] = combined_df['Position'].astype('str')
 
+# 去掉重複的觀測值
+unique_df = combined_df.drop_duplicates()
 
+#輸出一下表格
+new_dir = "C:/Users/mikali/Desktop/ProbeDesignOutput/ProbeDesignOutput/data"
+os.chdir(new_dir)
+unique_df.to_csv('unique_snp.csv', index=False)
+#去R抓其他欄位
 
 
 
