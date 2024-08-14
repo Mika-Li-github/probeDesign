@@ -67,31 +67,119 @@ test_seq = seq362['left_ref'].iloc[0]
 #801字元，如預期的。
 
 #想要的輸出:Fwd_ref, Tm_Fr
+'''
+#################################################################################################################################
+'''
 from Bio.SeqUtils import MeltingTemp as mt
 
 
-def Tm_Seq(sequences):
-    minimun_diff = float('inf')
-    for i in range(len(sequences)-16, -1, -1):#第一次取就16字元，取到0(0-1=-1)，也就是整列，每次迭代都減1
-            sub_seq = sequences[i:] #子序列
-            current_tm_Wallace = mt.Tm_Wallace(sub_seq) #子序列Tm值
-            current_diff = abs(current_tm_Wallace - 62.5) #子序列Tm值與62.5的距離
-            if 61 <current_tm_Wallace < 63.9: #如果在範圍內
-                if current_diff < minimun_diff: #而且當前距離小於最小距離
-                    minimun_diff = current_diff #則記錄當前距離
-                    best_sub = sub_seq #現在的序列就是最好的序列
-                    best_tm = current_tm_Wallace #現在的Tm值就是最好的Tm值                        
-                    results = [best_sub, best_tm]
-    return results
+#要從右邊取16個以上的字元，算完Tm值後，找出最接近62.5的序列，當61 < tm_value < 63.9，則記錄其Tm值，找出和62.5相差最小的
+def seq_tm_nn (seq):
+    closest_diff = float('inf')
+    best_tm_nn = None
+    best_seq_nn = None
+    for i in range(len(seq)-16, -1 ,-1):
+        sub_seq = seq[i:]
+        tm_nn = mt.Tm_NN(sub_seq)
+        current_diff = abs(tm_nn - 62.5)
+        if 61 < tm_nn < 63.9:
+            if current_diff < closest_diff:
+                closest_diff = current_diff
+                best_seq_nn = sub_seq
+                best_tm_nn = tm_nn
+        result = [best_seq_nn, best_tm_nn]
+        
+    return result
 
-Tm_Seq(seq362['left_ref'].iloc[0])
-mt.Tm_Wallace(seq362['left_ref'].iloc[0][798:])
+seq_tm_nn(test_seq)
+
+'''
+#################################################################################################################################
+'''
+#改成用wallace
+# 使用Wallace法计算Tm
+tm_wallace = mt.Tm_Wallace(test_seq)
+print(f'Tm (Wallace): {tm_wallace:.2f} °C')
+
+
+from Bio.SeqUtils import MeltingTemp as mt
+
+
+#要從右邊取16個以上的字元，算完Tm值後，找出最接近62.5的序列，當61 < tm_value < 63.9，則記錄其Tm值，找出和62.5相差最小的
+def seq_tm_Wallace (seq):
+    closest_diff = float('inf')
+    best_tm_Wallace = None
+    best_seq_Wallace = None
+    for i in range(len(seq)-16, -1 ,-1):
+        sub_seq = seq[i:]
+        tm_Wallace = mt.Tm_Wallace(sub_seq)
+        current_diff = abs(tm_Wallace - 62.5)
+        if 61 < tm_Wallace < 63.9:
+            if current_diff < closest_diff:
+                closest_diff = current_diff
+                best_seq_Wallace = sub_seq
+                best_tm_Wallace = tm_Wallace
+        result = [best_seq_Wallace, best_tm_Wallace]
+        
+    return result
+
+seq_tm_Wallace(test_seq)
+
+'''
+#################################################################################################################################
+'''
+#改成用Tm_GC
+tm_gc = mt.Tm_GC(test_seq)
+print(f'Tm (GC): {tm_gc:.2f} °C')
+
+
+from Bio.SeqUtils import MeltingTemp as mt
+
+
+#要從右邊取16個以上的字元，算完Tm值後，找出最接近62.5的序列，當61 < tm_value < 63.9，則記錄其Tm值，找出和62.5相差最小的
+def seq_tm_GC (seq):
+    closest_diff = float('inf')
+    best_tm_GC = None
+    best_seq_GC = None
+    for i in range(len(seq)-16, -1 ,-1):
+        sub_seq = seq[i:]
+        tm_GC = mt.Tm_GC(sub_seq)
+        current_diff = abs(tm_GC - 62.5)
+        if 61 < tm_GC < 63.9:
+            if current_diff < closest_diff:
+                closest_diff = current_diff
+                best_seq_GC = sub_seq
+                best_tm_GC = tm_GC
+        result = [best_seq_GC, best_tm_GC]
+        
+    return result
+
+seq_tm_GC(test_seq)
+
+
+'''
+#################################################################################################################################
+'''
+
+#Tm_Seq(seq362['left_ref'].iloc[0])
+#mt.Tm_Wallace(seq362['left_ref'].iloc[0][798:])
 seq362 = seq362.copy()
-seq362[['Fwd_ref', 'Tm_Fr']] = seq362['left_ref'].apply(Tm_Seq).apply(pd.Series)
+seq362[['Fwd_ref', 'Tm_Fr']] = seq362['left_ref'].apply(seq_tm_Wallace).apply(pd.Series)
 
-seq362[['Fwd_min', 'Tm_Fm']] = seq362['left_min'].apply(Tm_Seq).apply(pd.Series)
-seq362[['Rev_ref', 'Tm_Rr']] = seq362['right_ref_conv'].apply(Tm_Seq).apply(pd.Series)
-seq362[['Rev_min', 'Tm_Rm']] = seq362['right_min_conv'].apply(Tm_Seq).apply(pd.Series)
+seq362[['Fwd_min', 'Tm_Fm']] = seq362['left_min'].apply(seq_tm_Wallace).apply(pd.Series)
+seq362[['Rev_ref', 'Tm_Rr']] = seq362['right_ref_conv'].apply(seq_tm_Wallace).apply(pd.Series)
+seq362[['Rev_min', 'Tm_Rm']] = seq362['right_min_conv'].apply(seq_tm_Wallace).apply(pd.Series)
+#跑很快，約1~2分鐘
+#怎麼Tm都一樣?
+mt.Tm_Wallace("GTTCTCCTCTCCCATTCTGG")
+mt.Tm_Wallace("CAGCTGCTGGTGACCCATC")
+#...真的都一樣
+seq362.columns
+#Wallace能用的序列有:
+filtered_seq362_Wallace = seq362[seq362[['Fwd_ref', 'Tm_Fr', 'Fwd_min', 'Tm_Fm', 'Rev_ref', 'Tm_Rr', 'Rev_min', 'Tm_Rm']].notnull().all(axis=1)]
+#72個...好少
+
+
 
 #要來驗證
 validating = seq362["Rev_ref"].iloc[0]
@@ -99,6 +187,24 @@ source = seq362["right_ref_conv"].iloc[0]
 more1 = mt.Tm_Wallace(source[len(source)-len(validating)-1:])
 Tm = mt.Tm_Wallace(source[len(source)-len(validating):])
 less1 = mt.Tm_Wallace(source[len(source)-len(validating)+1:])
+'''
+#################################################################################################################################
+'''
+#換GC
+seq362 = seq362.copy()
+seq362[['Fwd_ref', 'Tm_Fr']] = seq362['left_ref'].apply(seq_tm_GC).apply(pd.Series)
+
+seq362[['Fwd_min', 'Tm_Fm']] = seq362['left_min'].apply(seq_tm_GC).apply(pd.Series)
+seq362[['Rev_ref', 'Tm_Rr']] = seq362['right_ref_conv'].apply(seq_tm_GC).apply(pd.Series)
+seq362[['Rev_min', 'Tm_Rm']] = seq362['right_min_conv'].apply(seq_tm_GC).apply(pd.Series)
+#跑1分鐘，很快
+
+#要來驗證
+validating = seq362["Rev_ref"].iloc[0]
+source = seq362["right_ref_conv"].iloc[0]
+more1 = mt.Tm_GC(source[len(source)-len(validating)-1:])
+Tm = mt.Tm_GC(source[len(source)-len(validating):])
+less1 = mt.Tm_GC(source[len(source)-len(validating)+1:])
 
 result = abs(Tm - 62.5) < abs(less1 - 62.5) and abs(Tm - 62.5) < abs(more1 - 62.5)
 if result:
@@ -106,7 +212,13 @@ if result:
 else:
     print("A和B有一个或全部为False")
 
+'''
+#################################################################################################################################
+'''
 #那麼，現在要來建立primer表了
+'''
+#################################################################################################################################
+'''
 import pandas as pd
 
 seq362.columns
@@ -126,6 +238,7 @@ primer_Fwd_ref = {
 # 从字典创建DataFrame
 primertable_Fwd_ref = pd.DataFrame(primer_Fwd_ref)
 
+'''
 #驗證GC content(%)
 (seq362['Fwd_ref'].apply(lambda x: x.count('G') + x.count('C')) / seq362['Fwd_ref'].apply(len)) * 100
 (17/44)*100
@@ -137,6 +250,7 @@ mt.Tm_GC('TATGATTTTATTTAAACAAATAATGAAATATTACTTTTTGGATAATACTATTTTTATGTTTACATTATTT
 # 61.13504492912075
 mt.Tm_Wallace('TATGATTTTATTTAAACAAATAATGAAATATTACTTTTTGGATAATACTATTTTTATGTTTACATTATTTTAGAGACTTAAAAAAATCACTGAAATATTTACCATGATTAAA')
 #如果用Wallace，此行260
+'''
 
 '''
 ####################
@@ -198,13 +312,41 @@ primer_Rev_min = {
 # 从字典创建DataFrame
 primertable_Rev_min = pd.DataFrame(primer_Rev_min)
 '''
+#################################################################################################################################
+'''
+'''
 ####################
 '''
 
 #合併表格
-primer = pd.concat([primertable_Fwd_ref, primertable_Fwd_min, primertable_Rev_ref, primertable_Rev_min], ignore_index=True)
-primer.to_csv('primer.csv', index=False, encoding='utf-8')
+primer_GC = pd.concat([primertable_Fwd_ref, primertable_Fwd_min, primertable_Rev_ref, primertable_Rev_min], ignore_index=True)
+#有是都有，但是序列長度?
 
+count = (primer_GC['primer_sequence'].str.len() < 100).sum()
+
+print(f"primer_sequence長度小於100的觀測值數量為：{count}")
+72*4
+
+#那如果是原本的nn?
+seq362 = seq362.copy()
+seq362[['Fwd_ref', 'Tm_Fr']] = seq362['left_ref'].apply(seq_tm_nn).apply(pd.Series)
+
+seq362[['Fwd_min', 'Tm_Fm']] = seq362['left_min'].apply(seq_tm_nn).apply(pd.Series)
+seq362[['Rev_ref', 'Tm_Rr']] = seq362['right_ref_conv'].apply(seq_tm_nn).apply(pd.Series)
+seq362[['Rev_min', 'Tm_Rm']] = seq362['right_min_conv'].apply(seq_tm_nn).apply(pd.Series)
+#是的，又跑了五分鐘
+
+#合併表格
+primer_NN = pd.concat([primertable_Fwd_ref, primertable_Fwd_min, primertable_Rev_ref, primertable_Rev_min], ignore_index=True)
+count = (primer_NN['primer_sequence'].str.len() < 100).sum()
+
+print(f"primer_sequence長度小於100的觀測值數量為：{count}")
+#1441個。那當然是採用GC(1443)
+
+primer_GC.to_csv('primer_GC.csv', index=False, encoding='utf-8')
+'''
+#################################################################################################################################
+'''
 """
 ##########################################################
 以下做probe
@@ -239,7 +381,7 @@ seq362['probe_sequence'] = np.where(seq362['probe_which'] == 'ref_len', seq362['
 # 创建一个字典 primer_Rev_min
 probe = {
     'rs_id': seq362['dbSNP ID'],
-    'Tm': seq362['probe_sequence'].apply(lambda x: mt.Tm_Wallace(x)), 
+    'Tm': seq362['probe_sequence'].apply(lambda x: mt.Tm_GC(x)), #就用GC算吧
     'GC content(%)': (seq362['probe_sequence'].apply(lambda x: x.count('G') + x.count('C')) / seq362['probe_sequence'].apply(len)) * 100,
     'probe_len': seq362['probe_sequence'].apply(len),
     'SNP_chr': seq362['Chromosome'],
@@ -248,19 +390,10 @@ probe = {
 }
 
 # 从字典创建DataFrame
-probe = pd.DataFrame(probe)
-
-
-
-
-
-
-#沒錯，要改wallace
-
-
-
+probe_GC = pd.DataFrame(probe)
 
 		
+probe_GC.to_csv('probe_GC.csv', index=False, encoding='utf-8')
 
 
 
