@@ -1,0 +1,2720 @@
+# BLASTN 2.16.0+
+# Query: rs1001007
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs1001007	rs1001007	100.000	80	0	0	1	80	1	80	2.20e-38	145
+# BLASTN 2.16.0+
+# Query: rs1004234
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs1004234	rs1004234	100.000	76	0	0	1	76	1	76	3.16e-36	138
+# BLASTN 2.16.0+
+# Query: rs10045403
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs10045403	rs10045403	100.000	103	0	0	1	103	1	103	9.73e-51	187
+rs10045403	rs12232497	100.000	12	0	0	92	103	76	65	0.24	22.9
+# BLASTN 2.16.0+
+# Query: rs10093384
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs10093384	rs10093384	100.000	122	0	0	1	122	1	122	5.73e-61	221
+rs10093384	rs928722	100.000	12	0	0	107	118	53	42	0.30	22.9
+# BLASTN 2.16.0+
+# Query: rs1013210
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs1013210	rs1013210	100.000	89	0	0	1	89	1	89	3.26e-43	161
+rs1013210	rs568617	100.000	12	0	0	78	89	59	48	0.21	22.9
+# BLASTN 2.16.0+
+# Query: rs10171979
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+rs10171979	rs10171979	100.000	64	0	0	1	64	1	64	8.34e-30	116
+rs10171979	rs4129267	92.857	14	1	0	47	60	44	31	0.49	22.0
+rs10171979	rs4243971	100.000	11	0	0	48	58	36	46	0.49	21.1
+rs10171979	rs2476601	100.000	11	0	0	21	31	34	44	0.49	21.1
+# BLASTN 2.16.0+
+# Query: rs1018326
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+rs1018326	rs1018326	100.000	151	0	0	1	151	1	151	1.32e-76	273
+rs1018326	rs7100025	94.737	19	1	0	23	41	32	50	0.003	31.0
+rs1018326	rs76412624	100.000	14	0	0	65	78	65	78	0.031	26.5
+rs1018326	rs928722	100.000	12	0	0	41	52	23	12	0.38	22.9
+rs1018326	rs34779708	92.857	14	1	0	67	80	59	46	1.3	22.0
+rs1018326	rs66504140	100.000	11	0	0	117	127	27	37	1.3	21.1
+rs1018326	rs3774937	100.000	11	0	0	45	55	32	42	1.3	21.1
+# BLASTN 2.16.0+
+# Query: rs10280089
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs10280089	rs10280089	100.000	40	0	0	1	40	1	40	4.89e-17	73.4
+# BLASTN 2.16.0+
+# Query: rs10440635
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs10440635	rs10440635	100.000	88	0	0	1	88	1	88	1.12e-42	159
+rs10440635	rs2274894	92.857	14	1	0	1	14	57	70	0.71	22.0
+rs10440635	rs28701841	100.000	11	0	0	47	57	41	31	0.71	21.1
+# BLASTN 2.16.0+
+# Query: rs10510607
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs10510607	rs10510607	100.000	80	0	0	1	80	1	80	2.20e-38	145
+rs10510607	rs26528	100.000	11	0	0	54	64	14	4	0.63	21.1
+# BLASTN 2.16.0+
+# Query: rs10743181
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs10743181	rs10743181	100.000	49	0	0	1	49	1	49	8.12e-22	89.7
+# BLASTN 2.16.0+
+# Query: rs10748781
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs10748781	rs10748781	100.000	56	0	0	1	56	1	56	1.54e-25	102
+# BLASTN 2.16.0+
+# Query: rs10750899
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs10750899	rs10750899	100.000	71	0	0	1	71	1	71	1.51e-33	129
+rs10750899	rs114846446	100.000	11	0	0	54	64	62	72	0.56	21.1
+# BLASTN 2.16.0+
+# Query: rs10758669
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs10758669	rs10758669	100.000	72	0	0	1	72	1	72	4.39e-34	131
+rs10758669	rs2497318	100.000	11	0	0	61	71	38	28	0.57	21.1
+# BLASTN 2.16.0+
+# Query: rs10761648
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs10761648	rs10761648	100.000	50	0	0	1	50	1	50	2.39e-22	91.5
+rs10761648	rs3749171	100.000	11	0	0	27	37	23	13	0.36	21.1
+# BLASTN 2.16.0+
+# Query: rs10775412
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs10775412	rs10775412	100.000	93	0	0	1	93	1	93	2.31e-45	168
+rs10775412	rs6759298	100.000	11	0	0	2	12	7	17	0.76	21.1
+rs10775412	rs11749391	100.000	11	0	0	68	78	62	52	0.76	21.1
+# BLASTN 2.16.0+
+# Query: rs10781500
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs10781500	rs10781500	100.000	104	0	0	1	104	1	104	2.82e-51	188
+rs10781500	rs3024493	92.857	14	1	0	91	104	55	68	0.86	22.0
+rs10781500	rs72796367	100.000	11	0	0	3	13	20	30	0.86	21.1
+# BLASTN 2.16.0+
+# Query: rs10800314
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs10800314	rs10800314	100.000	119	0	0	1	119	1	119	2.37e-59	215
+rs10800314	rs1326986	100.000	11	0	0	19	29	72	82	1.0	21.1
+# BLASTN 2.16.0+
+# Query: rs10822050
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs10822050	rs10822050	100.000	94	0	0	1	94	1	94	6.71e-46	170
+# BLASTN 2.16.0+
+# Query: rs10865331
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs10865331	rs10865331	100.000	62	0	0	1	62	1	62	9.76e-29	113
+rs10865331	rs755374	100.000	11	0	0	43	53	46	36	0.47	21.1
+rs10865331	rs2310173	100.000	11	0	0	7	17	77	67	0.47	21.1
+# BLASTN 2.16.0+
+# Query: rs10870077
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs10870077	rs10870077	100.000	58	0	0	1	58	1	58	1.33e-26	105
+# BLASTN 2.16.0+
+# Query: rs10889676
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+rs10889676	rs10889676	100.000	98	0	0	1	98	1	98	4.75e-48	178
+rs10889676	rs28701841	93.333	15	1	0	43	57	72	86	0.23	23.8
+rs10889676	rs10093384	100.000	12	0	0	47	58	68	79	0.23	22.9
+rs10889676	rs3766606	92.857	14	1	0	31	44	17	30	0.81	22.0
+rs10889676	rs7100025	100.000	11	0	0	37	47	37	47	0.81	21.1
+rs10889676	rs469758	100.000	11	0	0	39	49	16	26	0.81	21.1
+# BLASTN 2.16.0+
+# Query: rs10988542
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+rs10988542	rs10988542	100.000	47	0	0	1	47	1	47	9.33e-21	86.0
+rs10988542	rs75547560	95.833	24	1	0	1	24	24	1	1.21e-06	40.1
+rs10988542	rs62131887	83.784	37	4	1	1	37	35	1	4.24e-06	38.3
+rs10988542	rs2075184	95.455	22	1	0	1	22	22	1	1.48e-05	36.5
+# BLASTN 2.16.0+
+# Query: rs10995271
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs10995271	rs10995271	100.000	62	0	0	1	62	1	62	9.76e-29	113
+rs10995271	rs2031610	100.000	11	0	0	25	35	103	93	0.47	21.1
+# BLASTN 2.16.0+
+# Query: rs11065898
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs11065898	rs11065898	100.000	54	0	0	1	54	1	54	1.79e-24	98.7
+# BLASTN 2.16.0+
+# Query: rs11098964
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs11098964	rs11098964	100.000	142	0	0	1	142	1	142	9.45e-72	257
+rs11098964	rs10093384	89.474	19	1	1	22	39	57	75	0.35	22.9
+rs11098964	rs10093384	100.000	11	0	0	91	101	59	69	1.2	21.1
+# BLASTN 2.16.0+
+# Query: rs11117431
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs11117431	rs11117431	100.000	75	0	0	1	75	1	75	1.09e-35	136
+# BLASTN 2.16.0+
+# Query: rs11145763
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs11145763	rs11145763	100.000	57	0	0	1	57	1	57	4.53e-26	104
+# BLASTN 2.16.0+
+# Query: rs11168249
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs11168249	rs11168249	100.000	49	0	0	1	49	1	49	8.12e-22	89.7
+rs11168249	rs12075255	100.000	12	0	0	4	15	20	31	0.099	22.9
+rs11168249	rs1689510	100.000	11	0	0	24	34	30	20	0.35	21.1
+# BLASTN 2.16.0+
+# Query: rs11190133
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs11190133	rs11190133	100.000	150	0	0	1	150	1	150	4.56e-76	271
+# BLASTN 2.16.0+
+# Query: rs11209026
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs11209026	rs11209026	100.000	97	0	0	1	97	1	97	1.64e-47	176
+rs11209026	rs114202211	100.000	14	0	0	71	84	20	7	0.019	26.5
+rs11209026	rs12879003	100.000	12	0	0	72	83	55	44	0.23	22.9
+# BLASTN 2.16.0+
+# Query: rs11221322
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs11221322	rs11221322	100.000	62	0	0	1	62	1	62	9.76e-29	113
+# BLASTN 2.16.0+
+# Query: rs11221332
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs11221332	rs11221332	100.000	81	0	0	1	81	1	81	6.40e-39	147
+rs11221332	rs871656	93.750	16	1	0	66	81	40	25	0.053	25.6
+rs11221332	rs11691685	100.000	12	0	0	11	22	113	102	0.18	22.9
+# BLASTN 2.16.0+
+# Query: rs11229555
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs11229555	rs11229555	100.000	61	0	0	1	61	1	61	3.33e-28	111
+# BLASTN 2.16.0+
+# Query: rs11230563
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs11230563	rs11230563	100.000	42	0	0	1	42	1	42	4.31e-18	77.0
+rs11230563	rs26528	100.000	11	0	0	17	27	27	17	0.29	21.1
+# BLASTN 2.16.0+
+# Query: rs11236797
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs11236797	rs11236797	100.000	70	0	0	1	70	1	70	5.17e-33	127
+rs11236797	rs2145623	88.235	17	2	0	5	21	35	19	0.16	22.9
+# BLASTN 2.16.0+
+# Query: rs11249215
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs11249215	rs11249215	100.000	48	0	0	1	48	1	48	2.75e-21	87.8
+# BLASTN 2.16.0+
+# Query: rs1128905
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs1128905	rs1128905	100.000	48	0	0	1	48	1	48	2.75e-21	87.8
+# BLASTN 2.16.0+
+# Query: rs11363316
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+rs11363316	rs11363316	100.000	107	0	0	1	107	1	107	6.85e-53	194
+rs11363316	rs7915475	100.000	11	0	0	67	77	78	68	0.89	21.1
+rs11363316	rs714830	100.000	11	0	0	9	19	24	14	0.89	21.1
+rs11363316	rs12879003	100.000	11	0	0	15	25	43	53	0.89	21.1
+# BLASTN 2.16.0+
+# Query: rs114846446
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs114846446	rs114846446	100.000	73	0	0	1	73	1	73	1.28e-34	132
+rs114846446	rs6905036	100.000	11	0	0	20	30	17	7	0.58	21.1
+rs114846446	rs10750899	100.000	11	0	0	62	72	54	64	0.58	21.1
+# BLASTN 2.16.0+
+# Query: rs11574938
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs11574938	rs11574938	100.000	47	0	0	1	47	1	47	9.33e-21	86.0
+rs11574938	rs34779708	100.000	11	0	0	5	15	39	49	0.33	21.1
+# BLASTN 2.16.0+
+# Query: rs11580078
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+rs11580078	rs11580078	100.000	102	0	0	1	102	1	102	3.36e-50	185
+rs11580078	rs9491891	100.000	14	0	0	39	52	65	78	0.020	26.5
+rs11580078	rs582757	88.235	17	2	0	71	87	50	34	0.24	22.9
+rs11580078	rs36051895	100.000	12	0	0	27	38	25	36	0.24	22.9
+# BLASTN 2.16.0+
+# Query: rs11614178
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+rs11614178	rs11614178	100.000	90	0	0	1	90	1	90	9.46e-44	163
+rs11614178	rs7805114	100.000	12	0	0	44	55	3	14	0.21	22.9
+rs11614178	rs9797244	100.000	11	0	0	8	18	59	69	0.73	21.1
+rs11614178	rs7426056	100.000	11	0	0	34	44	38	28	0.73	21.1
+# BLASTN 2.16.0+
+# Query: rs11616188
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs11616188	rs11616188	100.000	60	0	0	1	60	1	60	1.14e-27	109
+# BLASTN 2.16.0+
+# Query: rs11624293
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs11624293	rs11624293	100.000	59	0	0	1	59	1	59	3.89e-27	107
+rs11624293	rs72871627	100.000	11	0	0	42	52	91	101	0.44	21.1
+# BLASTN 2.16.0+
+# Query: rs116488202
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs116488202	rs116488202	100.000	66	0	0	1	66	1	66	7.12e-31	120
+rs116488202	rs3774937	100.000	12	0	0	8	19	36	47	0.15	22.9
+rs116488202	rs1267499	100.000	11	0	0	22	32	47	57	0.51	21.1
+# BLASTN 2.16.0+
+# Query: rs11649613
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs11649613	rs11649613	100.000	40	0	0	1	40	1	40	4.89e-17	73.4
+# BLASTN 2.16.0+
+# Query: rs11675538
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs11675538	rs11675538	100.000	59	0	0	1	59	1	59	3.89e-27	107
+# BLASTN 2.16.0+
+# Query: rs11676348
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs11676348	rs11676348	100.000	70	0	0	1	70	1	70	5.17e-33	127
+rs11676348	rs4802307	100.000	11	0	0	36	46	27	17	0.55	21.1
+rs11676348	rs2836883	100.000	11	0	0	1	11	42	52	0.55	21.1
+# BLASTN 2.16.0+
+# Query: rs117372389
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs117372389	rs117372389	100.000	59	0	0	1	59	1	59	3.89e-27	107
+rs117372389	rs77150043	100.000	11	0	0	23	33	14	24	0.44	21.1
+# BLASTN 2.16.0+
+# Query: rs11741255
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs11741255	rs11741255	100.000	47	0	0	1	47	1	47	9.33e-21	86.0
+# BLASTN 2.16.0+
+# Query: rs11742270
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs11742270	rs11742270	100.000	89	0	0	1	89	1	89	3.26e-43	161
+# BLASTN 2.16.0+
+# Query: rs11749040
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs11749040	rs11749040	100.000	77	0	0	1	77	1	77	9.21e-37	140
+rs11749040	rs12146962	100.000	12	0	0	39	50	60	49	0.18	22.9
+rs11749040	rs2538470	92.857	14	1	0	35	48	8	21	0.62	22.0
+# BLASTN 2.16.0+
+# Query: rs11749391
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs11749391	rs11749391	100.000	136	0	0	1	136	1	136	1.63e-68	246
+rs11749391	rs9491891	100.000	11	0	0	126	136	45	35	1.2	21.1
+# BLASTN 2.16.0+
+# Query: rs11750385
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs11750385	rs11750385	100.000	64	0	0	1	64	1	64	8.34e-30	116
+rs11750385	rs34804116	100.000	12	0	0	31	42	35	24	0.14	22.9
+rs11750385	rs8070463	92.857	14	1	0	3	16	20	33	0.49	22.0
+# BLASTN 2.16.0+
+# Query: rs1182188
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+rs1182188	rs1182188	100.000	77	0	0	1	77	1	77	9.21e-37	140
+rs1182188	rs9687958	92.857	14	1	0	36	49	34	47	0.62	22.0
+rs1182188	rs4389526	100.000	11	0	0	20	30	1	11	0.62	21.1
+rs1182188	rs1992661	100.000	11	0	0	16	26	58	48	0.62	21.1
+# BLASTN 2.16.0+
+# Query: rs11839053
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs11839053	rs11839053	100.000	74	0	0	1	74	1	74	3.73e-35	134
+# BLASTN 2.16.0+
+# Query: rs12075255
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs12075255	rs12075255	100.000	54	0	0	1	54	1	54	1.79e-24	98.7
+rs12075255	rs11168249	100.000	12	0	0	20	31	4	15	0.11	22.9
+# BLASTN 2.16.0+
+# Query: rs12131796
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs12131796	rs12131796	100.000	80	0	0	1	80	1	80	2.20e-38	145
+rs12131796	rs7660520	83.333	24	0	1	57	80	40	21	0.052	25.6
+# BLASTN 2.16.0+
+# Query: rs12141575
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs12141575	rs12141575	100.000	110	0	0	1	110	1	110	1.66e-54	199
+rs12141575	rs12146962	93.333	15	1	0	56	70	88	102	0.26	23.8
+# BLASTN 2.16.0+
+# Query: rs12146962
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+rs12146962	rs12146962	100.000	105	0	0	1	105	1	105	8.17e-52	190
+rs12146962	rs28701841	100.000	13	0	0	33	45	108	120	0.072	24.7
+rs12146962	rs12141575	93.333	15	1	0	88	102	56	70	0.25	23.8
+rs12146962	rs353339	100.000	12	0	0	94	105	82	93	0.25	22.9
+rs12146962	rs11749040	100.000	12	0	0	49	60	50	39	0.25	22.9
+# BLASTN 2.16.0+
+# Query: rs12186979
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+rs12186979	rs12186979	100.000	97	0	0	1	97	1	97	1.64e-47	176
+rs12186979	rs7100025	100.000	12	0	0	76	87	41	52	0.23	22.9
+rs12186979	rs7933433	100.000	11	0	0	61	71	6	16	0.80	21.1
+rs12186979	rs4129267	100.000	11	0	0	64	74	30	40	0.80	21.1
+# BLASTN 2.16.0+
+# Query: rs12188300
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs12188300	rs12188300	100.000	58	0	0	1	58	1	58	1.33e-26	105
+rs12188300	rs4129267	100.000	15	0	0	6	20	34	48	0.003	28.3
+rs12188300	rs56167332	100.000	11	0	0	33	43	43	33	0.43	21.1
+# BLASTN 2.16.0+
+# Query: rs12232497
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+rs12232497	rs12232497	100.000	108	0	0	1	108	1	108	1.98e-53	196
+rs12232497	rs13388357	93.750	16	1	0	9	24	72	57	0.074	25.6
+rs12232497	rs10045403	100.000	12	0	0	65	76	103	92	0.26	22.9
+rs12232497	rs11691685	100.000	11	0	0	5	15	64	54	0.90	21.1
+rs12232497	rs6426833	100.000	11	0	0	37	47	13	23	0.90	21.1
+rs12232497	rs12968719	100.000	11	0	0	79	89	13	23	0.90	21.1
+# BLASTN 2.16.0+
+# Query: rs12369214
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs12369214	rs12369214	100.000	92	0	0	1	92	1	92	7.97e-45	167
+rs12369214	rs7313895	100.000	12	0	0	50	61	86	97	0.21	22.9
+# BLASTN 2.16.0+
+# Query: rs1250550
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs1250550	rs1250550	100.000	57	0	0	1	57	1	57	4.53e-26	104
+rs1250550	rs4672505	100.000	12	0	0	41	52	28	39	0.12	22.9
+rs1250550	rs2807264	100.000	11	0	0	6	16	17	7	0.42	21.1
+# BLASTN 2.16.0+
+# Query: rs1250563
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs1250563	rs1250563	100.000	79	0	0	1	79	1	79	7.80e-38	143
+rs1250563	rs16967103	100.000	11	0	0	12	22	17	7	0.64	21.1
+# BLASTN 2.16.0+
+# Query: rs1250573
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs1250573	rs1250573	100.000	54	0	0	1	54	1	54	1.79e-24	98.7
+rs1250573	rs2024092	100.000	13	0	0	1	13	26	38	0.032	24.7
+# BLASTN 2.16.0+
+# Query: rs12598357
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+rs12598357	rs12598357	100.000	62	0	0	1	62	1	62	9.76e-29	113
+rs12598357	rs2738774	92.857	28	2	0	1	28	9	36	1.45e-07	42.8
+rs12598357	rs7097656	94.444	18	1	0	29	46	45	62	0.003	29.2
+rs12598357	rs7426056	86.364	22	3	0	6	27	1	22	0.011	27.4
+# BLASTN 2.16.0+
+# Query: rs1260326
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs1260326	rs1260326	100.000	48	0	0	1	48	1	48	2.75e-21	87.8
+# BLASTN 2.16.0+
+# Query: rs12615545
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs12615545	rs12615545	100.000	103	0	0	1	103	1	103	9.73e-51	187
+rs12615545	rs508063	92.857	14	1	0	6	19	16	29	0.85	22.0
+rs12615545	rs10800314	100.000	11	0	0	19	29	49	39	0.85	21.1
+# BLASTN 2.16.0+
+# Query: rs1267499
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+rs1267499	rs1267499	100.000	65	0	0	1	65	1	65	2.44e-30	118
+rs1267499	rs7954567	85.185	27	3	1	27	53	50	25	0.003	28.3
+rs1267499	rs77150043	100.000	11	0	0	22	32	12	2	0.50	21.1
+rs1267499	rs116488202	100.000	11	0	0	47	57	22	32	0.50	21.1
+# BLASTN 2.16.0+
+# Query: rs12718244
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs12718244	rs12718244	100.000	88	0	0	1	88	1	88	1.12e-42	159
+rs12718244	rs3747517	100.000	12	0	0	44	55	37	48	0.20	22.9
+rs12718244	rs9297145	100.000	11	0	0	75	85	62	52	0.71	21.1
+# BLASTN 2.16.0+
+# Query: rs12720356
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs12720356	rs12720356	100.000	57	0	0	1	57	1	57	4.53e-26	104
+rs12720356	rs35874463	100.000	11	0	0	46	56	42	32	0.42	21.1
+rs12720356	rs6697886	100.000	11	0	0	24	34	26	16	0.42	21.1
+# BLASTN 2.16.0+
+# Query: rs12758027
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs12758027	rs12758027	100.000	93	0	0	1	93	1	93	2.31e-45	168
+rs12758027	rs6689858	100.000	12	0	0	51	62	31	20	0.22	22.9
+rs12758027	rs80174646	100.000	11	0	0	50	60	62	72	0.76	21.1
+# BLASTN 2.16.0+
+# Query: rs12863738
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs12863738	rs12863738	100.000	59	0	0	1	59	1	59	3.89e-27	107
+rs12863738	rs36001488	82.857	35	4	2	16	50	36	68	8.58e-04	30.1
+# BLASTN 2.16.0+
+# Query: rs12879003
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+rs12879003	rs12879003	100.000	90	0	0	1	90	1	90	9.46e-44	163
+rs12879003	rs114202211	100.000	12	0	0	44	55	8	19	0.21	22.9
+rs12879003	rs11209026	100.000	12	0	0	44	55	83	72	0.21	22.9
+rs12879003	rs17293632	100.000	11	0	0	77	87	17	7	0.73	21.1
+rs12879003	rs11363316	100.000	11	0	0	43	53	15	25	0.73	21.1
+# BLASTN 2.16.0+
+# Query: rs1292035
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+rs1292035	rs1292035	100.000	83	0	0	1	83	1	83	5.41e-40	150
+rs1292035	rs34804116	88.235	17	2	0	19	35	32	16	0.19	22.9
+rs1292035	rs2031610	100.000	12	0	0	8	19	147	136	0.19	22.9
+rs1292035	rs3118471	100.000	11	0	0	8	18	38	48	0.66	21.1
+# BLASTN 2.16.0+
+# Query: rs12928404
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs12928404	rs12928404	100.000	62	0	0	1	62	1	62	9.76e-29	113
+rs12928404	rs2823288	92.857	14	1	0	22	35	54	67	0.47	22.0
+# BLASTN 2.16.0+
+# Query: rs12932970
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs12932970	rs12932970	100.000	51	0	0	1	51	1	51	7.04e-23	93.3
+# BLASTN 2.16.0+
+# Query: rs12942547
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 9 hits found
+rs12942547	rs12942547	100.000	87	0	0	1	87	1	87	3.86e-42	158
+rs12942547	rs12942547	88.235	34	0	2	35	66	66	35	2.61e-06	39.2
+rs12942547	rs10800314	91.667	24	2	0	30	53	75	52	3.18e-05	35.6
+rs12942547	rs10800314	85.714	21	1	1	46	66	52	70	0.20	22.9
+rs12942547	rs10800314	100.000	11	0	0	36	46	81	71	0.70	21.1
+rs12942547	rs2031610	86.364	22	3	0	30	51	133	154	0.016	27.4
+rs12942547	rs17466626	93.750	16	1	0	34	49	39	54	0.057	25.6
+rs12942547	rs28701841	100.000	13	0	0	37	49	79	67	0.057	24.7
+rs12942547	rs353339	100.000	11	0	0	50	60	29	19	0.70	21.1
+# BLASTN 2.16.0+
+# Query: rs12943464
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs12943464	rs12943464	100.000	81	0	0	1	81	1	81	6.40e-39	147
+rs12943464	rs2738774	100.000	11	0	0	6	16	18	8	0.64	21.1
+# BLASTN 2.16.0+
+# Query: rs12968719
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs12968719	rs12968719	100.000	87	0	0	1	87	1	87	3.86e-42	158
+rs12968719	rs9494840	100.000	16	0	0	63	78	28	13	0.001	30.1
+rs12968719	rs12232497	100.000	11	0	0	13	23	79	89	0.70	21.1
+# BLASTN 2.16.0+
+# Query: rs12987977
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+rs12987977	rs12987977	100.000	104	0	0	1	104	1	104	2.82e-51	188
+rs12987977	rs9491891	93.750	16	1	0	46	61	53	68	0.071	25.6
+rs12987977	rs7313895	90.000	20	1	1	36	54	150	131	0.071	24.7
+rs12987977	rs1326986	100.000	12	0	0	46	57	75	86	0.25	22.9
+rs12987977	rs2031610	100.000	11	0	0	36	46	63	53	0.86	21.1
+rs12987977	rs1992661	100.000	11	0	0	48	58	55	65	0.86	21.1
+rs12987977	rs16967103	100.000	11	0	0	52	62	49	59	0.86	21.1
+# BLASTN 2.16.0+
+# Query: rs13001372
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs13001372	rs13001372	100.000	48	0	0	1	48	1	48	2.75e-21	87.8
+# BLASTN 2.16.0+
+# Query: rs13107612
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs13107612	rs13107612	100.000	85	0	0	1	85	1	85	4.57e-41	154
+# BLASTN 2.16.0+
+# Query: rs13132308
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs13132308	rs13132308	100.000	62	0	0	1	62	1	62	9.76e-29	113
+rs13132308	rs367569	100.000	14	0	0	13	26	43	56	0.011	26.5
+rs13132308	rs4851529	93.750	16	1	0	22	37	52	37	0.039	25.6
+# BLASTN 2.16.0+
+# Query: rs13210693
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs13210693	rs13210693	100.000	62	0	0	1	62	1	62	9.76e-29	113
+# BLASTN 2.16.0+
+# Query: rs1326986
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+rs1326986	rs1326986	100.000	111	0	0	1	111	1	111	4.82e-55	201
+rs1326986	rs9491891	100.000	12	0	0	75	86	53	64	0.27	22.9
+rs1326986	rs12987977	100.000	12	0	0	75	86	46	57	0.27	22.9
+rs1326986	rs10800314	100.000	11	0	0	72	82	19	29	0.93	21.1
+# BLASTN 2.16.0+
+# Query: rs1328454
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+rs1328454	rs1328454	100.000	83	0	0	1	83	1	83	5.41e-40	150
+rs1328454	rs928722	92.857	14	1	0	19	32	52	65	0.66	22.0
+rs1328454	rs9494840	100.000	11	0	0	58	68	38	28	0.66	21.1
+rs1328454	rs7404095	100.000	11	0	0	67	77	17	27	0.66	21.1
+rs1328454	rs2024092	100.000	11	0	0	6	16	40	30	0.66	21.1
+# BLASTN 2.16.0+
+# Query: rs1332099
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs1332099	rs1332099	100.000	49	0	0	1	49	1	49	8.12e-22	89.7
+rs1332099	rs2836883	100.000	11	0	0	32	42	58	48	0.35	21.1
+# BLASTN 2.16.0+
+# Query: rs1333062
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs1333062	rs1333062	100.000	73	0	0	1	73	1	73	1.28e-34	132
+# BLASTN 2.16.0+
+# Query: rs13407913
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs13407913	rs13407913	100.000	48	0	0	1	48	1	48	2.75e-21	87.8
+# BLASTN 2.16.0+
+# Query: rs140135
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs140135	rs140135	100.000	62	0	0	1	62	1	62	9.76e-29	113
+rs140135	rs4243971	100.000	11	0	0	18	28	33	23	0.47	21.1
+rs140135	rs35164067	100.000	11	0	0	8	18	11	21	0.47	21.1
+# BLASTN 2.16.0+
+# Query: rs1405108
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+rs1405108	rs1405108	100.000	110	0	0	1	110	1	110	1.66e-54	199
+rs1405108	rs72871627	84.000	25	1	2	48	72	43	22	0.92	22.0
+rs1405108	rs7100025	100.000	11	0	0	53	63	37	27	0.92	21.1
+rs1405108	rs6556411	100.000	11	0	0	4	14	55	65	0.92	21.1
+# BLASTN 2.16.0+
+# Query: rs1525735
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs1525735	rs1525735	100.000	82	0	0	1	82	1	82	1.86e-39	149
+# BLASTN 2.16.0+
+# Query: rs1551399
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs1551399	rs1551399	100.000	87	0	0	1	87	1	87	3.86e-42	158
+# BLASTN 2.16.0+
+# Query: rs1569328
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs1569328	rs1569328	100.000	58	0	0	1	58	1	58	1.33e-26	105
+# BLASTN 2.16.0+
+# Query: rs1569414
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs1569414	rs1569414	100.000	51	0	0	1	51	1	51	7.04e-23	93.3
+# BLASTN 2.16.0+
+# Query: rs16841904
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs16841904	rs16841904	100.000	76	0	0	1	76	1	76	3.16e-36	138
+# BLASTN 2.16.0+
+# Query: rs1689510
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs1689510	rs1689510	100.000	55	0	0	1	55	1	55	5.26e-25	100
+rs1689510	rs17765610	88.235	17	2	0	35	51	58	42	0.12	22.9
+rs1689510	rs11168249	100.000	11	0	0	20	30	34	24	0.40	21.1
+# BLASTN 2.16.0+
+# Query: rs16967103
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs16967103	rs16967103	100.000	79	0	0	1	79	1	79	7.80e-38	143
+rs16967103	rs12987977	100.000	11	0	0	49	59	52	62	0.64	21.1
+rs16967103	rs1250563	100.000	11	0	0	7	17	22	12	0.64	21.1
+# BLASTN 2.16.0+
+# Query: rs17030062
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs17030062	rs17030062	100.000	86	0	0	1	86	1	86	1.33e-41	156
+# BLASTN 2.16.0+
+# Query: rs17085007
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs17085007	rs17085007	100.000	86	0	0	1	86	1	86	1.33e-41	156
+rs17085007	rs7281081	100.000	12	0	0	49	60	37	26	0.20	22.9
+rs17085007	rs6556411	100.000	11	0	0	33	43	27	17	0.69	21.1
+# BLASTN 2.16.0+
+# Query: rs17095830
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs17095830	rs17095830	100.000	76	0	0	1	76	1	76	3.16e-36	138
+rs17095830	rs35300242	100.000	11	0	0	27	37	17	27	0.61	21.1
+# BLASTN 2.16.0+
+# Query: rs17192932
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs17192932	rs17192932	100.000	63	0	0	1	63	1	63	2.85e-29	114
+rs17192932	rs2104286	100.000	12	0	0	18	29	58	47	0.14	22.9
+# BLASTN 2.16.0+
+# Query: rs17293632
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs17293632	rs17293632	100.000	86	0	0	1	86	1	86	1.33e-41	156
+rs17293632	rs2310173	93.333	15	1	0	37	51	46	60	0.20	23.8
+rs17293632	rs12879003	100.000	11	0	0	7	17	87	77	0.69	21.1
+# BLASTN 2.16.0+
+# Query: rs174535
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs174535	rs174535	100.000	53	0	0	1	53	1	53	6.10e-24	96.9
+rs174535	rs7556897	100.000	11	0	0	40	50	92	82	0.39	21.1
+# BLASTN 2.16.0+
+# Query: rs17466626
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs17466626	rs17466626	100.000	108	0	0	1	108	1	108	1.98e-53	196
+rs17466626	rs9797244	93.333	15	1	0	74	88	59	45	0.26	23.8
+rs17466626	rs6679677	100.000	11	0	0	29	39	45	35	0.90	21.1
+# BLASTN 2.16.0+
+# Query: rs17622378
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs17622378	rs17622378	100.000	52	0	0	1	52	1	52	2.07e-23	95.1
+# BLASTN 2.16.0+
+# Query: rs17765610
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs17765610	rs17765610	100.000	62	0	0	1	62	1	62	9.76e-29	113
+rs17765610	rs1689510	88.235	17	2	0	42	58	51	35	0.14	22.9
+# BLASTN 2.16.0+
+# Query: rs17780256
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs17780256	rs17780256	100.000	83	0	0	1	83	1	83	5.41e-40	150
+# BLASTN 2.16.0+
+# Query: rs17885785
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs17885785	rs17885785	100.000	66	0	0	1	66	1	66	7.12e-31	120
+rs17885785	rs2104286	100.000	11	0	0	31	41	43	53	0.51	21.1
+# BLASTN 2.16.0+
+# Query: rs1800682
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs1800682	rs1800682	100.000	71	0	0	1	71	1	71	1.51e-33	129
+# BLASTN 2.16.0+
+# Query: rs1801274
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs1801274	rs1801274	100.000	67	0	0	1	67	1	67	2.08e-31	122
+# BLASTN 2.16.0+
+# Query: rs1847472
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 13 hits found
+rs1847472	rs1847472	100.000	99	0	0	1	99	1	99	1.38e-48	179
+rs1847472	rs1847472	100.000	12	0	0	6	17	17	6	0.23	22.9
+rs1847472	rs7097656	100.000	15	0	0	28	42	72	58	0.005	28.3
+rs1847472	rs10800314	85.714	21	3	0	9	29	56	76	0.067	25.6
+rs1847472	rs7556897	100.000	13	0	0	5	17	70	58	0.067	24.7
+rs1847472	rs7556897	100.000	12	0	0	6	17	58	69	0.23	22.9
+rs1847472	rs74956615	100.000	13	0	0	18	30	6	18	0.067	24.7
+rs1847472	rs17466626	100.000	13	0	0	6	18	57	45	0.067	24.7
+rs1847472	rs17466626	100.000	12	0	0	6	17	46	57	0.23	22.9
+rs1847472	rs2531875	100.000	12	0	0	8	19	51	40	0.23	22.9
+rs1847472	rs10093384	100.000	12	0	0	54	65	35	24	0.23	22.9
+rs1847472	rs12943464	100.000	11	0	0	6	16	19	29	0.82	21.1
+rs1847472	rs12943464	100.000	11	0	0	7	17	29	19	0.82	21.1
+# BLASTN 2.16.0+
+# Query: rs1860545
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs1860545	rs1860545	100.000	50	0	0	1	50	1	50	2.39e-22	91.5
+# BLASTN 2.16.0+
+# Query: rs1870293
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs1870293	rs1870293	100.000	72	0	0	1	72	1	72	4.39e-34	131
+# BLASTN 2.16.0+
+# Query: rs1883832
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs1883832	rs1883832	100.000	46	0	0	1	46	1	46	3.16e-20	84.2
+# BLASTN 2.16.0+
+# Query: rs1893592
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs1893592	rs1893592	100.000	73	0	0	1	73	1	73	1.28e-34	132
+rs1893592	rs2812378	100.000	11	0	0	37	47	44	34	0.58	21.1
+# BLASTN 2.16.0+
+# Query: rs196941
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs196941	rs196941	100.000	67	0	0	1	67	1	67	2.08e-31	122
+# BLASTN 2.16.0+
+# Query: rs1992661
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+rs1992661	rs1992661	100.000	72	0	0	1	72	1	72	4.39e-34	131
+rs1992661	rs9687958	100.000	11	0	0	61	71	11	1	0.57	21.1
+rs1992661	rs9491891	100.000	11	0	0	55	65	55	65	0.57	21.1
+rs1992661	rs34779708	100.000	11	0	0	40	50	5	15	0.57	21.1
+rs1992661	rs12987977	100.000	11	0	0	55	65	48	58	0.57	21.1
+rs1992661	rs1182188	100.000	11	0	0	48	58	26	16	0.57	21.1
+# BLASTN 2.16.0+
+# Query: rs2024092
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs2024092	rs2024092	100.000	46	0	0	1	46	1	46	3.16e-20	84.2
+rs2024092	rs1250573	100.000	13	0	0	26	38	1	13	0.026	24.7
+rs2024092	rs1328454	100.000	11	0	0	30	40	16	6	0.32	21.1
+# BLASTN 2.16.0+
+# Query: rs2026029
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs2026029	rs2026029	100.000	110	0	0	1	110	1	110	1.66e-54	199
+rs2026029	rs8006884	92.857	14	1	0	89	102	97	84	0.92	22.0
+rs2026029	rs6863411	100.000	11	0	0	25	35	83	73	0.92	21.1
+# BLASTN 2.16.0+
+# Query: rs2031610
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 13 hits found
+rs2031610	rs2031610	100.000	177	0	0	1	177	1	177	1.18e-90	320
+rs2031610	rs2031610	83.333	24	4	0	56	79	127	150	0.036	26.5
+rs2031610	rs7313895	80.000	25	5	0	40	64	127	151	0.44	23.8
+rs2031610	rs7313895	100.000	11	0	0	101	111	22	12	1.5	21.1
+rs2031610	rs34884278	93.333	15	1	0	2	16	70	56	0.44	23.8
+rs2031610	rs75547560	100.000	12	0	0	114	125	39	50	0.44	22.9
+rs2031610	rs2910686	100.000	12	0	0	112	123	34	23	0.44	22.9
+rs2031610	rs2075184	100.000	12	0	0	114	125	36	47	0.44	22.9
+rs2031610	rs378108	100.000	11	0	0	14	24	44	54	1.5	21.1
+rs2031610	rs2738774	100.000	11	0	0	115	125	1	11	1.5	21.1
+rs2031610	rs235316	100.000	11	0	0	71	81	36	46	1.5	21.1
+rs2031610	rs12987977	100.000	11	0	0	53	63	46	36	1.5	21.1
+rs2031610	rs10995271	100.000	11	0	0	93	103	35	25	1.5	21.1
+# BLASTN 2.16.0+
+# Query: rs2032890
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs2032890	rs2032890	100.000	50	0	0	1	50	1	50	2.39e-22	91.5
+# BLASTN 2.16.0+
+# Query: rs2042011
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs2042011	rs2042011	100.000	140	0	0	1	140	1	140	1.13e-70	253
+rs2042011	rs9889296	100.000	12	0	0	7	18	38	49	0.35	22.9
+rs2042011	rs497871	100.000	11	0	0	118	128	57	67	1.2	21.1
+# BLASTN 2.16.0+
+# Query: rs2050392
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs2050392	rs2050392	100.000	47	0	0	1	47	1	47	9.33e-21	86.0
+rs2050392	rs7672495	100.000	12	0	0	26	37	40	51	0.093	22.9
+# BLASTN 2.16.0+
+# Query: rs2066363
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs2066363	rs2066363	100.000	98	0	0	1	98	1	98	4.75e-48	178
+rs2066363	rs9297145	100.000	11	0	0	18	28	28	38	0.81	21.1
+# BLASTN 2.16.0+
+# Query: rs2069835
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs2069835	rs2069835	100.000	66	0	0	1	66	1	66	7.12e-31	120
+rs2069835	rs2910686	100.000	11	0	0	22	32	50	60	0.51	21.1
+# BLASTN 2.16.0+
+# Query: rs2075184
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+rs2075184	rs2075184	100.000	60	0	0	1	60	1	60	1.14e-27	109
+rs2075184	rs75547560	88.000	50	5	1	1	49	3	52	5.18e-13	60.8
+rs2075184	rs62131887	93.103	29	2	0	1	29	14	42	3.98e-08	44.6
+rs2075184	rs10988542	95.455	22	1	0	1	22	22	1	2.06e-05	36.5
+rs2075184	rs2738774	100.000	13	0	0	37	49	1	13	0.037	24.7
+rs2075184	rs2031610	100.000	12	0	0	36	47	114	125	0.13	22.9
+# BLASTN 2.16.0+
+# Query: rs2075726
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs2075726	rs2075726	100.000	57	0	0	1	57	1	57	4.53e-26	104
+rs2075726	rs2075726	100.000	12	0	0	15	26	26	15	0.12	22.9
+# BLASTN 2.16.0+
+# Query: rs2104286
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs2104286	rs2104286	100.000	78	0	0	1	78	1	78	2.68e-37	141
+rs2104286	rs17192932	100.000	12	0	0	47	58	29	18	0.18	22.9
+rs2104286	rs17885785	100.000	11	0	0	43	53	31	41	0.63	21.1
+# BLASTN 2.16.0+
+# Query: rs2111485
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+rs2111485	rs2111485	100.000	75	0	0	1	75	1	75	1.09e-35	136
+rs2111485	rs4869313	92.857	14	1	0	60	73	29	42	0.60	22.0
+rs2111485	rs76412624	100.000	11	0	0	65	75	54	64	0.60	21.1
+rs2111485	rs3774937	100.000	11	0	0	58	68	64	74	0.60	21.1
+# BLASTN 2.16.0+
+# Query: rs2143178
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs2143178	rs2143178	100.000	53	0	0	1	53	1	53	6.10e-24	96.9
+# BLASTN 2.16.0+
+# Query: rs2145623
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs2145623	rs2145623	100.000	54	0	0	1	54	1	54	1.79e-24	98.7
+rs2145623	rs11236797	88.235	17	2	0	19	35	21	5	0.11	22.9
+# BLASTN 2.16.0+
+# Query: rs2192752
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs2192752	rs2192752	100.000	80	0	0	1	80	1	80	2.20e-38	145
+# BLASTN 2.16.0+
+# Query: rs2234161
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs2234161	rs2234161	100.000	44	0	0	1	44	1	44	3.60e-19	80.6
+# BLASTN 2.16.0+
+# Query: rs2236379
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs2236379	rs2236379	100.000	59	0	0	1	59	1	59	3.89e-27	107
+# BLASTN 2.16.0+
+# Query: rs2242944
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs2242944	rs2242944	100.000	87	0	0	1	87	1	87	3.86e-42	158
+rs2242944	rs34804116	100.000	11	0	0	14	24	86	76	0.70	21.1
+# BLASTN 2.16.0+
+# Query: rs2266961
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs2266961	rs2266961	100.000	62	0	0	1	62	1	62	9.76e-29	113
+# BLASTN 2.16.0+
+# Query: rs2274894
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs2274894	rs2274894	100.000	75	0	0	1	75	1	75	1.09e-35	136
+rs2274894	rs10440635	92.857	14	1	0	57	70	1	14	0.60	22.0
+# BLASTN 2.16.0+
+# Query: rs2283790
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs2283790	rs2283790	100.000	55	0	0	1	55	1	55	5.26e-25	100
+# BLASTN 2.16.0+
+# Query: rs2284553
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs2284553	rs2284553	100.000	50	0	0	1	50	1	50	2.39e-22	91.5
+# BLASTN 2.16.0+
+# Query: rs2297518
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs2297518	rs2297518	100.000	80	0	0	1	80	1	80	2.20e-38	145
+rs2297518	rs62097857	92.857	14	1	0	35	48	66	53	0.63	22.0
+# BLASTN 2.16.0+
+# Query: rs2297909
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs2297909	rs2297909	100.000	46	0	0	1	46	1	46	3.16e-20	84.2
+# BLASTN 2.16.0+
+# Query: rs2301436
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs2301436	rs2301436	100.000	89	0	0	1	89	1	89	3.26e-43	161
+# BLASTN 2.16.0+
+# Query: rs2310173
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+rs2310173	rs2310173	100.000	78	0	0	1	78	1	78	2.68e-37	141
+rs2310173	rs17293632	93.333	15	1	0	46	60	37	51	0.18	23.8
+rs2310173	rs35164067	100.000	11	0	0	42	52	40	30	0.63	21.1
+rs2310173	rs10865331	100.000	11	0	0	67	77	17	7	0.63	21.1
+# BLASTN 2.16.0+
+# Query: rs2328530
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs2328530	rs2328530	100.000	75	0	0	1	75	1	75	1.09e-35	136
+rs2328530	rs2910686	100.000	12	0	0	2	13	61	72	0.17	22.9
+rs2328530	rs77150043	100.000	11	0	0	17	27	25	15	0.60	21.1
+# BLASTN 2.16.0+
+# Query: rs235316
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs235316	rs235316	100.000	81	0	0	1	81	1	81	6.40e-39	147
+# BLASTN 2.16.0+
+# Query: rs2394250
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs2394250	rs2394250	100.000	68	0	0	1	68	1	68	6.07e-32	123
+# BLASTN 2.16.0+
+# Query: rs2402752
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs2402752	rs2402752	100.000	114	0	0	1	114	1	114	1.17e-56	206
+rs2402752	rs76412624	93.333	15	1	0	18	32	76	90	0.28	23.8
+rs2402752	rs28998802	100.000	12	0	0	38	49	23	34	0.28	22.9
+# BLASTN 2.16.0+
+# Query: rs2429929
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs2429929	rs2429929	100.000	73	0	0	1	73	1	73	1.28e-34	132
+rs2429929	rs34884278	93.333	15	1	0	34	48	65	79	0.17	23.8
+rs2429929	rs11691685	100.000	11	0	0	6	16	60	50	0.58	21.1
+# BLASTN 2.16.0+
+# Query: rs2451258
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs2451258	rs2451258	100.000	67	0	0	1	67	1	67	2.08e-31	122
+# BLASTN 2.16.0+
+# Query: rs2476601
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs2476601	rs2476601	100.000	71	0	0	1	71	1	71	1.51e-33	129
+rs2476601	rs2807264	100.000	11	0	0	55	65	35	25	0.56	21.1
+rs2476601	rs10171979	100.000	11	0	0	34	44	21	31	0.56	21.1
+# BLASTN 2.16.0+
+# Query: rs2497318
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs2497318	rs2497318	100.000	77	0	0	1	77	1	77	9.21e-37	140
+rs2497318	rs10758669	100.000	11	0	0	28	38	71	61	0.62	21.1
+# BLASTN 2.16.0+
+# Query: rs2516514
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs2516514	rs2516514	100.000	57	0	0	1	57	1	57	4.53e-26	104
+rs2516514	rs62324212	100.000	11	0	0	3	13	52	42	0.42	21.1
+# BLASTN 2.16.0+
+# Query: rs2531875
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+rs2531875	rs2531875	100.000	76	0	0	1	76	1	76	3.16e-36	138
+rs2531875	rs10800314	74.286	35	9	0	16	50	90	56	0.18	23.8
+rs2531875	rs1847472	100.000	12	0	0	40	51	19	8	0.18	22.9
+rs2531875	rs8070463	100.000	11	0	0	42	52	16	6	0.61	21.1
+rs2531875	rs17466626	100.000	11	0	0	41	51	45	55	0.61	21.1
+# BLASTN 2.16.0+
+# Query: rs2538470
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs2538470	rs2538470	100.000	65	0	0	1	65	1	65	2.44e-30	118
+rs2538470	rs3776414	92.857	14	1	0	34	47	16	29	0.50	22.0
+rs2538470	rs11749040	92.857	14	1	0	8	21	35	48	0.50	22.0
+# BLASTN 2.16.0+
+# Query: rs2549803
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs2549803	rs2549803	100.000	98	0	0	1	98	1	98	4.75e-48	178
+rs2549803	rs7404095	100.000	14	0	0	14	27	44	57	0.019	26.5
+rs2549803	rs183686347	100.000	11	0	0	48	58	29	19	0.81	21.1
+# BLASTN 2.16.0+
+# Query: rs259964
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs259964	rs259964	100.000	72	0	0	1	72	1	72	4.39e-34	131
+# BLASTN 2.16.0+
+# Query: rs26528
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs26528	rs26528	100.000	49	0	0	1	49	1	49	8.12e-22	89.7
+rs26528	rs11230563	100.000	11	0	0	17	27	27	17	0.35	21.1
+rs26528	rs10510607	100.000	11	0	0	4	14	64	54	0.35	21.1
+# BLASTN 2.16.0+
+# Query: rs2666218
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs2666218	rs2666218	100.000	61	0	0	1	61	1	61	3.33e-28	111
+# BLASTN 2.16.0+
+# Query: rs2738774
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+rs2738774	rs2738774	100.000	70	0	0	1	70	1	70	5.17e-33	127
+rs2738774	rs12598357	92.857	28	2	0	9	36	1	28	1.69e-07	42.8
+rs2738774	rs75547560	100.000	15	0	0	1	15	40	54	0.004	28.3
+rs2738774	rs7426056	100.000	13	0	0	14	26	1	13	0.045	24.7
+rs2738774	rs2075184	100.000	13	0	0	1	13	37	49	0.045	24.7
+rs2738774	rs2031610	100.000	11	0	0	1	11	115	125	0.55	21.1
+rs2738774	rs12943464	100.000	11	0	0	8	18	16	6	0.55	21.1
+# BLASTN 2.16.0+
+# Query: rs27434
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs27434	rs27434	100.000	88	0	0	1	88	1	88	1.12e-42	159
+# BLASTN 2.16.0+
+# Query: rs27529
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs27529	rs27529	100.000	80	0	0	1	80	1	80	2.20e-38	145
+# BLASTN 2.16.0+
+# Query: rs2779255
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs2779255	rs2779255	100.000	70	0	0	1	70	1	70	5.17e-33	127
+rs2779255	rs7848647	92.857	14	1	0	45	58	6	19	0.55	22.0
+rs2779255	rs469758	100.000	11	0	0	59	69	64	74	0.55	21.1
+# BLASTN 2.16.0+
+# Query: rs2807264
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+rs2807264	rs2807264	100.000	63	0	0	1	63	1	63	2.85e-29	114
+rs2807264	rs7660520	100.000	11	0	0	27	37	60	50	0.48	21.1
+rs2807264	rs2476601	100.000	11	0	0	25	35	65	55	0.48	21.1
+rs2807264	rs1250550	100.000	11	0	0	7	17	16	6	0.48	21.1
+# BLASTN 2.16.0+
+# Query: rs2812378
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs2812378	rs2812378	100.000	63	0	0	1	63	1	63	2.85e-29	114
+rs2812378	rs11691685	100.000	11	0	0	52	62	108	118	0.48	21.1
+rs2812378	rs1893592	100.000	11	0	0	34	44	47	37	0.48	21.1
+# BLASTN 2.16.0+
+# Query: rs2816958
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs2816958	rs2816958	100.000	59	0	0	1	59	1	59	3.89e-27	107
+rs2816958	rs4246905	100.000	11	0	0	20	30	22	32	0.44	21.1
+# BLASTN 2.16.0+
+# Query: rs2823288
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs2823288	rs2823288	100.000	93	0	0	1	93	1	93	2.31e-45	168
+rs2823288	rs9491891	93.333	15	1	0	79	93	18	32	0.22	23.8
+rs2823288	rs35736272	100.000	11	0	0	21	31	25	15	0.76	21.1
+# BLASTN 2.16.0+
+# Query: rs2836882
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs2836882	rs2836882	100.000	85	0	0	1	85	1	85	4.57e-41	154
+# BLASTN 2.16.0+
+# Query: rs2836883
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs2836883	rs2836883	100.000	58	0	0	1	58	1	58	1.33e-26	105
+rs2836883	rs1332099	100.000	11	0	0	48	58	42	32	0.43	21.1
+rs2836883	rs11676348	100.000	11	0	0	42	52	1	11	0.43	21.1
+# BLASTN 2.16.0+
+# Query: rs2844510
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs2844510	rs2844510	100.000	52	0	0	1	52	1	52	2.07e-23	95.1
+# BLASTN 2.16.0+
+# Query: rs28533662
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs28533662	rs28533662	100.000	88	0	0	1	88	1	88	1.12e-42	159
+rs28533662	rs30187	100.000	11	0	0	35	45	54	44	0.71	21.1
+# BLASTN 2.16.0+
+# Query: rs28550029
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs28550029	rs28550029	100.000	67	0	0	1	67	1	67	2.08e-31	122
+# BLASTN 2.16.0+
+# Query: rs28998802
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs28998802	rs28998802	100.000	74	0	0	1	74	1	74	3.73e-35	134
+rs28998802	rs2402752	100.000	12	0	0	23	34	38	49	0.17	22.9
+# BLASTN 2.16.0+
+# Query: rs2910686
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+rs2910686	rs2910686	100.000	87	0	0	1	87	1	87	3.86e-42	158
+rs2910686	rs2328530	100.000	12	0	0	61	72	2	13	0.20	22.9
+rs2910686	rs2031610	100.000	12	0	0	23	34	123	112	0.20	22.9
+rs2910686	rs941823	92.857	14	1	0	35	48	19	32	0.70	22.0
+rs2910686	rs7874251	100.000	11	0	0	2	12	35	25	0.70	21.1
+rs2910686	rs2069835	100.000	11	0	0	50	60	22	32	0.70	21.1
+# BLASTN 2.16.0+
+# Query: rs30187
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs30187	rs30187	100.000	67	0	0	1	67	1	67	2.08e-31	122
+rs30187	rs35736272	92.857	14	1	0	32	45	35	22	0.52	22.0
+rs30187	rs28533662	100.000	11	0	0	44	54	45	35	0.52	21.1
+# BLASTN 2.16.0+
+# Query: rs3024493
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs3024493	rs3024493	100.000	69	0	0	1	69	1	69	1.77e-32	125
+rs3024493	rs10781500	92.857	14	1	0	55	68	91	104	0.54	22.0
+# BLASTN 2.16.0+
+# Query: rs3118471
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs3118471	rs3118471	100.000	101	0	0	1	101	1	101	1.16e-49	183
+# BLASTN 2.16.0+
+# Query: rs3124998
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs3124998	rs3124998	100.000	47	0	0	1	47	1	47	9.33e-21	86.0
+rs3124998	rs4418214	100.000	11	0	0	17	27	29	39	0.33	21.1
+# BLASTN 2.16.0+
+# Query: rs3184504
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs3184504	rs3184504	100.000	46	0	0	1	46	1	46	3.16e-20	84.2
+# BLASTN 2.16.0+
+# Query: rs3197999
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs3197999	rs3197999	100.000	46	0	0	1	46	1	46	3.16e-20	84.2
+# BLASTN 2.16.0+
+# Query: rs34779708
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+rs34779708	rs34779708	100.000	90	0	0	1	90	1	90	9.46e-44	163
+rs34779708	rs1018326	92.857	14	1	0	46	59	80	67	0.73	22.0
+rs34779708	rs76412624	100.000	11	0	0	49	59	77	67	0.73	21.1
+rs34779708	rs1992661	100.000	11	0	0	5	15	40	50	0.73	21.1
+rs34779708	rs11574938	100.000	11	0	0	39	49	5	15	0.73	21.1
+# BLASTN 2.16.0+
+# Query: rs34804116
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+rs34804116	rs34804116	100.000	94	0	0	1	94	1	94	6.71e-46	170
+rs34804116	rs714830	90.000	20	1	1	69	87	24	5	0.063	24.7
+rs34804116	rs1292035	88.235	17	2	0	16	32	35	19	0.22	22.9
+rs34804116	rs11750385	100.000	12	0	0	24	35	42	31	0.22	22.9
+rs34804116	rs6781808	100.000	11	0	0	16	26	31	21	0.77	21.1
+rs34804116	rs2242944	100.000	11	0	0	76	86	24	14	0.77	21.1
+rs34804116	rs12146962	100.000	11	0	0	8	18	28	18	0.77	21.1
+# BLASTN 2.16.0+
+# Query: rs34884278
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+rs34884278	rs34884278	100.000	107	0	0	1	107	1	107	6.85e-53	194
+rs34884278	rs2429929	93.333	15	1	0	65	79	34	48	0.26	23.8
+rs34884278	rs6426833	100.000	12	0	0	44	55	15	4	0.26	22.9
+rs34884278	rs7313895	100.000	11	0	0	39	49	18	8	0.89	21.1
+# BLASTN 2.16.0+
+# Query: rs34920465
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs34920465	rs34920465	100.000	68	0	0	1	68	1	68	6.07e-32	123
+# BLASTN 2.16.0+
+# Query: rs35164067
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs35164067	rs35164067	100.000	86	0	0	1	86	1	86	1.33e-41	156
+rs35164067	rs2310173	100.000	11	0	0	30	40	52	42	0.69	21.1
+rs35164067	rs140135	100.000	11	0	0	11	21	8	18	0.69	21.1
+# BLASTN 2.16.0+
+# Query: rs35300242
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs35300242	rs35300242	100.000	75	0	0	1	75	1	75	1.09e-35	136
+rs35300242	rs17095830	100.000	11	0	0	17	27	27	37	0.60	21.1
+# BLASTN 2.16.0+
+# Query: rs35320439
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs35320439	rs35320439	100.000	51	0	0	1	51	1	51	7.04e-23	93.3
+# BLASTN 2.16.0+
+# Query: rs353339
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+rs353339	rs353339	100.000	118	0	0	1	118	1	118	8.19e-59	214
+rs353339	rs6863411	100.000	12	0	0	107	118	70	59	0.29	22.9
+rs353339	rs12146962	100.000	12	0	0	82	93	94	105	0.29	22.9
+rs353339	rs13388357	92.857	14	1	0	78	91	101	114	1.0	22.0
+rs353339	rs12942547	100.000	11	0	0	19	29	60	50	1.0	21.1
+rs353339	rs11190133	100.000	11	0	0	3	13	95	105	1.0	21.1
+rs353339	rs10800314	100.000	11	0	0	1	11	82	72	1.0	21.1
+# BLASTN 2.16.0+
+# Query: rs35667974
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs35667974	rs35667974	100.000	72	0	0	1	72	1	72	4.39e-34	131
+# BLASTN 2.16.0+
+# Query: rs35736272
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+rs35736272	rs35736272	100.000	99	0	0	1	99	1	99	1.38e-48	179
+rs35736272	rs4869313	100.000	12	0	0	56	67	46	57	0.23	22.9
+rs35736272	rs4869313	100.000	11	0	0	57	67	18	28	0.82	21.1
+rs35736272	rs30187	92.857	14	1	0	22	35	45	32	0.82	22.0
+rs35736272	rs41299637	100.000	11	0	0	54	64	32	22	0.82	21.1
+rs35736272	rs2823288	100.000	11	0	0	15	25	31	21	0.82	21.1
+# BLASTN 2.16.0+
+# Query: rs36001488
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs36001488	rs36001488	100.000	79	0	0	1	79	1	79	7.80e-38	143
+# BLASTN 2.16.0+
+# Query: rs36051895
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs36051895	rs36051895	100.000	64	0	0	1	64	1	64	8.34e-30	116
+rs36051895	rs11580078	100.000	12	0	0	25	36	27	38	0.14	22.9
+# BLASTN 2.16.0+
+# Query: rs367569
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs367569	rs367569	100.000	58	0	0	1	58	1	58	1.33e-26	105
+rs367569	rs13132308	100.000	14	0	0	43	56	13	26	0.010	26.5
+# BLASTN 2.16.0+
+# Query: rs3747517
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs3747517	rs3747517	100.000	83	0	0	1	83	1	83	5.41e-40	150
+rs3747517	rs12718244	100.000	12	0	0	37	48	44	55	0.19	22.9
+# BLASTN 2.16.0+
+# Query: rs3749171
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs3749171	rs3749171	100.000	48	0	0	1	48	1	48	2.75e-21	87.8
+rs3749171	rs10761648	100.000	11	0	0	13	23	37	27	0.34	21.1
+# BLASTN 2.16.0+
+# Query: rs3766606
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs3766606	rs3766606	100.000	73	0	0	1	73	1	73	1.28e-34	132
+# BLASTN 2.16.0+
+# Query: rs3774937
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+rs3774937	rs3774937	100.000	99	0	0	1	99	1	99	1.38e-48	179
+rs3774937	rs116488202	100.000	12	0	0	36	47	8	19	0.23	22.9
+rs3774937	rs35018800	100.000	11	0	0	10	20	15	5	0.82	21.1
+rs3774937	rs2111485	100.000	11	0	0	64	74	58	68	0.82	21.1
+rs3774937	rs1018326	100.000	11	0	0	32	42	45	55	0.82	21.1
+# BLASTN 2.16.0+
+# Query: rs3776414
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs3776414	rs3776414	100.000	57	0	0	1	57	1	57	4.53e-26	104
+rs3776414	rs2538470	92.857	14	1	0	16	29	34	47	0.42	22.0
+# BLASTN 2.16.0+
+# Query: rs378108
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+rs378108	rs378108	100.000	80	0	0	1	80	1	80	2.20e-38	145
+rs378108	rs4845604	100.000	12	0	0	50	61	10	21	0.18	22.9
+rs378108	rs2301436	100.000	11	0	0	11	21	37	27	0.63	21.1
+rs378108	rs2031610	100.000	11	0	0	44	54	14	24	0.63	21.1
+# BLASTN 2.16.0+
+# Query: rs3806308
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs3806308	rs3806308	100.000	54	0	0	1	54	1	54	1.79e-24	98.7
+# BLASTN 2.16.0+
+# Query: rs3853824
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs3853824	rs3853824	100.000	103	0	0	1	103	1	103	9.73e-51	187
+rs3853824	rs9889296	100.000	11	0	0	31	41	45	55	0.85	21.1
+# BLASTN 2.16.0+
+# Query: rs395157
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs395157	rs395157	100.000	75	0	0	1	75	1	75	1.09e-35	136
+rs395157	rs34779708	100.000	11	0	0	32	42	76	86	0.60	21.1
+# BLASTN 2.16.0+
+# Query: rs4129267
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+rs4129267	rs4129267	100.000	67	0	0	1	67	1	67	2.08e-31	122
+rs4129267	rs12188300	100.000	15	0	0	34	48	6	20	0.004	28.3
+rs4129267	rs10171979	92.857	14	1	0	31	44	60	47	0.52	22.0
+rs4129267	rs12186979	100.000	11	0	0	30	40	64	74	0.52	21.1
+# BLASTN 2.16.0+
+# Query: rs41299637
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs41299637	rs41299637	100.000	60	0	0	1	60	1	60	1.14e-27	109
+rs41299637	rs35736272	100.000	11	0	0	22	32	64	54	0.45	21.1
+# BLASTN 2.16.0+
+# Query: rs4243971
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs4243971	rs4243971	100.000	55	0	0	1	55	1	55	5.26e-25	100
+rs4243971	rs140135	100.000	11	0	0	23	33	28	18	0.40	21.1
+rs4243971	rs10171979	100.000	11	0	0	36	46	48	58	0.40	21.1
+# BLASTN 2.16.0+
+# Query: rs4246905
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs4246905	rs4246905	100.000	109	0	0	1	109	1	109	5.75e-54	197
+rs4246905	rs2816958	100.000	11	0	0	22	32	20	30	0.91	21.1
+# BLASTN 2.16.0+
+# Query: rs4333130
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs4333130	rs4333130	100.000	86	0	0	1	86	1	86	1.33e-41	156
+# BLASTN 2.16.0+
+# Query: rs4349859
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs4349859	rs4349859	100.000	89	0	0	1	89	1	89	3.26e-43	161
+# BLASTN 2.16.0+
+# Query: rs4389526
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs4389526	rs4389526	100.000	92	0	0	1	92	1	92	7.97e-45	167
+rs4389526	rs1182188	100.000	11	0	0	1	11	20	30	0.75	21.1
+# BLASTN 2.16.0+
+# Query: rs4418214
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs4418214	rs4418214	100.000	49	0	0	1	49	1	49	8.12e-22	89.7
+rs4418214	rs3124998	100.000	11	0	0	29	39	17	27	0.35	21.1
+# BLASTN 2.16.0+
+# Query: rs4463302
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs4463302	rs4463302	100.000	65	0	0	1	65	1	65	2.44e-30	118
+rs4463302	rs72867732	100.000	11	0	0	47	57	32	42	0.50	21.1
+# BLASTN 2.16.0+
+# Query: rs4552569
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs4552569	rs4552569	100.000	86	0	0	1	86	1	86	1.33e-41	156
+rs4552569	rs9797244	100.000	11	0	0	11	21	90	80	0.69	21.1
+# BLASTN 2.16.0+
+# Query: rs4561177
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs4561177	rs4561177	100.000	91	0	0	1	91	1	91	2.75e-44	165
+rs4561177	rs11749391	94.444	18	0	1	22	39	50	66	0.061	25.6
+# BLASTN 2.16.0+
+# Query: rs4625
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs4625	rs4625	100.000	48	0	0	1	48	1	48	2.75e-21	87.8
+# BLASTN 2.16.0+
+# Query: rs4655215
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs4655215	rs4655215	100.000	66	0	0	1	66	1	66	7.12e-31	120
+# BLASTN 2.16.0+
+# Query: rs4672505
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs4672505	rs4672505	100.000	55	0	0	1	55	1	55	5.26e-25	100
+rs4672505	rs1250550	100.000	12	0	0	28	39	41	52	0.12	22.9
+rs4672505	rs28701841	100.000	11	0	0	19	29	13	3	0.40	21.1
+# BLASTN 2.16.0+
+# Query: rs4676406
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs4676406	rs4676406	100.000	67	0	0	1	67	1	67	2.08e-31	122
+# BLASTN 2.16.0+
+# Query: rs4676410
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs4676410	rs4676410	100.000	42	0	0	1	42	1	42	4.31e-18	77.0
+rs4676410	rs6693105	100.000	11	0	0	25	35	6	16	0.29	21.1
+# BLASTN 2.16.0+
+# Query: rs469758
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+rs469758	rs469758	100.000	82	0	0	1	82	1	82	1.86e-39	149
+rs469758	rs3118471	100.000	12	0	0	13	24	59	70	0.19	22.9
+rs469758	rs755374	100.000	11	0	0	57	67	18	28	0.65	21.1
+rs469758	rs2779255	100.000	11	0	0	64	74	59	69	0.65	21.1
+rs469758	rs10889676	100.000	11	0	0	16	26	39	49	0.65	21.1
+# BLASTN 2.16.0+
+# Query: rs4703855
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs4703855	rs4703855	100.000	70	0	0	1	70	1	70	5.17e-33	127
+# BLASTN 2.16.0+
+# Query: rs4728142
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs4728142	rs4728142	100.000	58	0	0	1	58	1	58	1.33e-26	105
+rs4728142	rs7426056	100.000	12	0	0	21	32	76	65	0.12	22.9
+# BLASTN 2.16.0+
+# Query: rs4802307
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+rs4802307	rs4802307	100.000	79	0	0	1	79	1	79	7.80e-38	143
+rs4802307	rs7115956	92.857	14	1	0	10	23	54	67	0.64	22.0
+rs4802307	rs2042011	100.000	11	0	0	64	74	41	31	0.64	21.1
+rs4802307	rs11676348	100.000	11	0	0	17	27	46	36	0.64	21.1
+# BLASTN 2.16.0+
+# Query: rs4812833
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs4812833	rs4812833	100.000	68	0	0	1	68	1	68	6.07e-32	123
+rs4812833	rs4971079	93.333	15	1	0	47	61	18	4	0.15	23.8
+# BLASTN 2.16.0+
+# Query: rs4845604
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs4845604	rs4845604	100.000	68	0	0	1	68	1	68	6.07e-32	123
+rs4845604	rs378108	100.000	12	0	0	10	21	50	61	0.15	22.9
+# BLASTN 2.16.0+
+# Query: rs4851529
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+rs4851529	rs4851529	100.000	101	0	0	1	101	1	101	1.16e-49	183
+rs4851529	rs13132308	93.750	16	1	0	37	52	37	22	0.069	25.6
+rs4851529	rs6651252	93.333	15	1	0	33	47	10	24	0.24	23.8
+rs4851529	rs4986790	100.000	12	0	0	67	78	23	34	0.24	22.9
+# BLASTN 2.16.0+
+# Query: rs4869313
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs4869313	rs4869313	100.000	146	0	0	1	146	1	146	6.57e-74	264
+# BLASTN 2.16.0+
+# Query: rs4917129
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs4917129	rs4917129	100.000	71	0	0	1	71	1	71	1.51e-33	129
+# BLASTN 2.16.0+
+# Query: rs4921482
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs4921482	rs4921482	100.000	82	0	0	1	82	1	82	1.86e-39	149
+# BLASTN 2.16.0+
+# Query: rs4946717
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs4946717	rs4946717	100.000	63	0	0	1	63	1	63	2.85e-29	114
+# BLASTN 2.16.0+
+# Query: rs4971079
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs4971079	rs4971079	100.000	110	0	0	1	110	1	110	1.66e-54	199
+rs4971079	rs4812833	93.333	15	1	0	4	18	61	47	0.26	23.8
+rs4971079	rs7805114	100.000	11	0	0	82	92	58	68	0.92	21.1
+# BLASTN 2.16.0+
+# Query: rs497871
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+rs497871	rs497871	100.000	110	0	0	1	110	1	110	1.66e-54	199
+rs497871	rs9687958	93.333	15	1	0	5	19	64	50	0.26	23.8
+rs497871	rs9889296	100.000	12	0	0	51	62	35	46	0.26	22.9
+rs497871	rs10093384	100.000	12	0	0	52	63	31	20	0.26	22.9
+rs497871	rs2042011	100.000	11	0	0	57	67	118	128	0.92	21.1
+# BLASTN 2.16.0+
+# Query: rs4986790
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs4986790	rs4986790	100.000	101	0	0	1	101	1	101	1.16e-49	183
+rs4986790	rs4851529	100.000	12	0	0	23	34	67	78	0.24	22.9
+# BLASTN 2.16.0+
+# Query: rs508063
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs508063	rs508063	100.000	117	0	0	1	117	1	117	2.83e-58	212
+rs508063	rs61839660	82.609	23	1	1	12	34	20	39	0.28	22.9
+rs508063	rs12615545	92.857	14	1	0	16	29	6	19	0.99	22.0
+# BLASTN 2.16.0+
+# Query: rs55688811
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs55688811	rs55688811	100.000	61	0	0	1	61	1	61	3.33e-28	111
+rs55688811	rs61199332	100.000	11	0	0	43	53	21	11	0.46	21.1
+# BLASTN 2.16.0+
+# Query: rs55705316
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs55705316	rs55705316	100.000	70	0	0	1	70	1	70	5.17e-33	127
+# BLASTN 2.16.0+
+# Query: rs559928
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs559928	rs559928	100.000	62	0	0	1	62	1	62	9.76e-29	113
+# BLASTN 2.16.0+
+# Query: rs56167332
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs56167332	rs56167332	100.000	56	0	0	1	56	1	56	1.54e-25	102
+rs56167332	rs12188300	100.000	11	0	0	33	43	43	33	0.41	21.1
+# BLASTN 2.16.0+
+# Query: rs568617
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs568617	rs568617	100.000	60	0	0	1	60	1	60	1.14e-27	109
+rs568617	rs1013210	100.000	12	0	0	48	59	89	78	0.13	22.9
+# BLASTN 2.16.0+
+# Query: rs582757
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs582757	rs582757	100.000	95	0	0	1	95	1	95	1.95e-46	172
+rs582757	rs11580078	88.235	17	2	0	34	50	87	71	0.22	22.9
+# BLASTN 2.16.0+
+# Query: rs587259
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs587259	rs587259	100.000	58	0	0	1	58	1	58	1.33e-26	105
+rs587259	rs17622517	100.000	12	0	0	12	23	39	50	0.12	22.9
+# BLASTN 2.16.0+
+# Query: rs59867199
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs59867199	rs59867199	100.000	77	0	0	1	77	1	77	9.21e-37	140
+# BLASTN 2.16.0+
+# Query: rs602662
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs602662	rs602662	100.000	53	0	0	1	53	1	53	6.10e-24	96.9
+# BLASTN 2.16.0+
+# Query: rs6058869
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs6058869	rs6058869	100.000	89	0	0	1	89	1	89	3.26e-43	161
+# BLASTN 2.16.0+
+# Query: rs6062496
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs6062496	rs6062496	100.000	47	0	0	1	47	1	47	9.33e-21	86.0
+# BLASTN 2.16.0+
+# Query: rs61199332
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs61199332	rs61199332	100.000	69	0	0	1	69	1	69	1.77e-32	125
+rs61199332	rs6556411	100.000	12	0	0	46	57	23	34	0.16	22.9
+rs61199332	rs55688811	100.000	11	0	0	11	21	53	43	0.54	21.1
+# BLASTN 2.16.0+
+# Query: rs61839660
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs61839660	rs61839660	100.000	68	0	0	1	68	1	68	6.07e-32	123
+rs61839660	rs508063	82.609	23	1	1	20	39	12	34	0.15	22.9
+# BLASTN 2.16.0+
+# Query: rs62097857
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs62097857	rs62097857	100.000	67	0	0	1	67	1	67	2.08e-31	122
+rs62097857	rs2297518	92.857	14	1	0	53	66	48	35	0.52	22.0
+rs62097857	rs17622517	100.000	11	0	0	20	30	47	37	0.52	21.1
+# BLASTN 2.16.0+
+# Query: rs62131887
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+rs62131887	rs62131887	100.000	51	0	0	1	51	1	51	7.04e-23	93.3
+rs62131887	rs75547560	93.750	32	2	0	14	45	3	34	7.53e-10	50.0
+rs62131887	rs2075184	93.103	29	2	0	14	42	1	29	3.20e-08	44.6
+rs62131887	rs10988542	83.784	37	4	1	1	35	37	1	4.75e-06	38.3
+# BLASTN 2.16.0+
+# Query: rs62324212
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+rs62324212	rs62324212	100.000	81	0	0	1	81	1	81	6.40e-39	147
+rs62324212	rs7848647	100.000	12	0	0	38	49	24	13	0.18	22.9
+rs62324212	rs74956615	100.000	11	0	0	16	26	29	19	0.64	21.1
+rs62324212	rs2516514	100.000	11	0	0	42	52	13	3	0.64	21.1
+# BLASTN 2.16.0+
+# Query: rs6425143
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs6425143	rs6425143	100.000	78	0	0	1	78	1	78	2.68e-37	141
+# BLASTN 2.16.0+
+# Query: rs6426833
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs6426833	rs6426833	100.000	63	0	0	1	63	1	63	2.85e-29	114
+rs6426833	rs34884278	100.000	12	0	0	4	15	55	44	0.14	22.9
+rs6426833	rs12232497	100.000	11	0	0	13	23	37	47	0.48	21.1
+# BLASTN 2.16.0+
+# Query: rs6434978
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs6434978	rs6434978	100.000	85	0	0	1	85	1	85	4.57e-41	154
+# BLASTN 2.16.0+
+# Query: rs6466198
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs6466198	rs6466198	100.000	52	0	0	1	52	1	52	2.07e-23	95.1
+# BLASTN 2.16.0+
+# Query: rs6502398
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs6502398	rs6502398	100.000	60	0	0	1	60	1	60	1.14e-27	109
+# BLASTN 2.16.0+
+# Query: rs6556411
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+rs6556411	rs6556411	100.000	65	0	0	1	65	1	65	2.44e-30	118
+rs6556411	rs61199332	100.000	12	0	0	23	34	46	57	0.14	22.9
+rs6556411	rs17085007	100.000	11	0	0	17	27	43	33	0.50	21.1
+rs6556411	rs1405108	100.000	11	0	0	55	65	4	14	0.50	21.1
+# BLASTN 2.16.0+
+# Query: rs6556416
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs6556416	rs6556416	100.000	103	0	0	1	103	1	103	9.73e-51	187
+# BLASTN 2.16.0+
+# Query: rs6561151
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs6561151	rs6561151	100.000	91	0	0	1	91	1	91	2.75e-44	165
+# BLASTN 2.16.0+
+# Query: rs6600247
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs6600247	rs6600247	100.000	66	0	0	1	66	1	66	7.12e-31	120
+rs6600247	rs7831697	100.000	11	0	0	54	64	32	42	0.51	21.1
+# BLASTN 2.16.0+
+# Query: rs661054
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs661054	rs661054	100.000	79	0	0	1	79	1	79	7.80e-38	143
+rs661054	rs7857730	100.000	13	0	0	59	71	90	102	0.053	24.7
+# BLASTN 2.16.0+
+# Query: rs66504140
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs66504140	rs66504140	100.000	82	0	0	1	82	1	82	1.86e-39	149
+rs66504140	rs1018326	100.000	11	0	0	27	37	117	127	0.65	21.1
+# BLASTN 2.16.0+
+# Query: rs6651252
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs6651252	rs6651252	100.000	59	0	0	1	59	1	59	3.89e-27	107
+rs6651252	rs4851529	93.333	15	1	0	10	24	33	47	0.13	23.8
+rs6651252	rs7608910	100.000	12	0	0	19	30	12	1	0.13	22.9
+# BLASTN 2.16.0+
+# Query: rs6679677
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs6679677	rs6679677	100.000	80	0	0	1	80	1	80	2.20e-38	145
+rs6679677	rs17466626	100.000	11	0	0	35	45	39	29	0.63	21.1
+# BLASTN 2.16.0+
+# Query: rs6689858
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs6689858	rs6689858	100.000	68	0	0	1	68	1	68	6.07e-32	123
+rs6689858	rs12758027	100.000	12	0	0	20	31	62	51	0.15	22.9
+# BLASTN 2.16.0+
+# Query: rs6693105
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs6693105	rs6693105	100.000	81	0	0	1	81	1	81	6.40e-39	147
+rs6693105	rs28701841	100.000	11	0	0	49	59	130	120	0.64	21.1
+rs6693105	rs4676410	100.000	11	0	0	6	16	25	35	0.64	21.1
+# BLASTN 2.16.0+
+# Query: rs6697886
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs6697886	rs6697886	100.000	49	0	0	1	49	1	49	8.12e-22	89.7
+rs6697886	rs12720356	100.000	11	0	0	16	26	34	24	0.35	21.1
+# BLASTN 2.16.0+
+# Query: rs6759298
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs6759298	rs6759298	100.000	68	0	0	1	68	1	68	6.07e-32	123
+rs6759298	rs10775412	100.000	11	0	0	7	17	2	12	0.53	21.1
+# BLASTN 2.16.0+
+# Query: rs6781808
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs6781808	rs6781808	100.000	83	0	0	1	83	1	83	5.41e-40	150
+rs6781808	rs9977672	92.857	14	1	0	19	32	49	36	0.66	22.0
+rs6781808	rs34804116	100.000	11	0	0	21	31	26	16	0.66	21.1
+# BLASTN 2.16.0+
+# Query: rs679574
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs679574	rs679574	100.000	66	0	0	1	66	1	66	7.12e-31	120
+# BLASTN 2.16.0+
+# Query: rs6863411
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+rs6863411	rs6863411	100.000	117	0	0	1	117	1	117	2.83e-58	212
+rs6863411	rs353339	100.000	12	0	0	59	70	118	107	0.28	22.9
+rs6863411	rs7313895	100.000	11	0	0	67	77	98	88	0.99	21.1
+rs6863411	rs2026029	100.000	11	0	0	73	83	35	25	0.99	21.1
+# BLASTN 2.16.0+
+# Query: rs6871626
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs6871626	rs6871626	100.000	55	0	0	1	55	1	55	5.26e-25	100
+# BLASTN 2.16.0+
+# Query: rs6905036
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs6905036	rs6905036	100.000	71	0	0	1	71	1	71	1.51e-33	129
+rs6905036	rs114846446	100.000	11	0	0	7	17	30	20	0.56	21.1
+# BLASTN 2.16.0+
+# Query: rs702872
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs702872	rs702872	100.000	59	0	0	1	59	1	59	3.89e-27	107
+# BLASTN 2.16.0+
+# Query: rs7042370
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs7042370	rs7042370	100.000	61	0	0	1	61	1	61	3.33e-28	111
+# BLASTN 2.16.0+
+# Query: rs706778
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs706778	rs706778	100.000	58	0	0	1	58	1	58	1.33e-26	105
+# BLASTN 2.16.0+
+# Query: rs7097656
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+rs7097656	rs7097656	100.000	77	0	0	1	77	1	77	9.21e-37	140
+rs7097656	rs12598357	94.444	18	1	0	45	62	29	46	0.004	29.2
+rs7097656	rs1847472	100.000	15	0	0	58	72	42	28	0.004	28.3
+rs7097656	rs871656	100.000	11	0	0	2	12	48	58	0.62	21.1
+# BLASTN 2.16.0+
+# Query: rs7100025
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 9 hits found
+rs7100025	rs7100025	100.000	115	0	0	1	115	1	115	3.38e-57	208
+rs7100025	rs1018326	94.737	19	1	0	32	50	23	41	0.002	31.0
+rs7100025	rs1580226	78.571	28	6	0	8	35	50	23	0.080	24.7
+rs7100025	rs12186979	100.000	12	0	0	41	52	76	87	0.28	22.9
+rs7100025	rs4869313	92.857	14	1	0	77	90	7	20	0.97	22.0
+rs7100025	rs72871627	100.000	11	0	0	1	11	80	70	0.97	21.1
+rs7100025	rs1405108	100.000	11	0	0	27	37	63	53	0.97	21.1
+rs7100025	rs11749391	100.000	11	0	0	38	48	32	42	0.97	21.1
+rs7100025	rs10889676	100.000	11	0	0	37	47	37	47	0.97	21.1
+# BLASTN 2.16.0+
+# Query: rs714830
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+rs714830	rs714830	100.000	85	0	0	1	85	1	85	4.57e-41	154
+rs714830	rs34804116	90.000	20	1	1	5	24	87	69	0.056	24.7
+rs714830	rs860262	92.857	14	1	0	41	54	60	73	0.68	22.0
+rs714830	rs11363316	100.000	11	0	0	14	24	19	9	0.68	21.1
+# BLASTN 2.16.0+
+# Query: rs71559680
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs71559680	rs71559680	100.000	106	0	0	1	106	1	106	2.37e-52	192
+# BLASTN 2.16.0+
+# Query: rs71624119
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs71624119	rs71624119	100.000	81	0	0	1	81	1	81	6.40e-39	147
+# BLASTN 2.16.0+
+# Query: rs7217335
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs7217335	rs7217335	100.000	46	0	0	1	46	1	46	3.16e-20	84.2
+# BLASTN 2.16.0+
+# Query: rs7236492
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs7236492	rs7236492	100.000	61	0	0	1	61	1	61	3.33e-28	111
+# BLASTN 2.16.0+
+# Query: rs726657
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs726657	rs726657	100.000	75	0	0	1	75	1	75	1.09e-35	136
+# BLASTN 2.16.0+
+# Query: rs72743477
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs72743477	rs72743477	100.000	71	0	0	1	71	1	71	1.51e-33	129
+# BLASTN 2.16.0+
+# Query: rs7281081
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+rs7281081	rs7281081	100.000	102	0	0	1	102	1	102	3.36e-50	185
+rs7281081	rs17085007	100.000	12	0	0	26	37	60	49	0.24	22.9
+rs7281081	rs28701841	92.857	14	1	0	3	16	84	97	0.85	22.0
+rs7281081	rs79568124	100.000	11	0	0	71	81	38	48	0.85	21.1
+# BLASTN 2.16.0+
+# Query: rs72812861
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs72812861	rs72812861	100.000	57	0	0	1	57	1	57	4.53e-26	104
+# BLASTN 2.16.0+
+# Query: rs7282490
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs7282490	rs7282490	100.000	67	0	0	1	67	1	67	2.08e-31	122
+# BLASTN 2.16.0+
+# Query: rs72867732
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs72867732	rs72867732	100.000	49	0	0	1	49	1	49	8.12e-22	89.7
+rs72867732	rs4463302	100.000	11	0	0	32	42	47	57	0.35	21.1
+# BLASTN 2.16.0+
+# Query: rs72928038
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs72928038	rs72928038	100.000	95	0	0	1	95	1	95	1.95e-46	172
+# BLASTN 2.16.0+
+# Query: rs7313895
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+rs7313895	rs7313895	100.000	152	0	0	1	152	1	152	3.80e-77	275
+rs7313895	rs12987977	90.000	20	1	1	131	150	54	36	0.11	24.7
+rs7313895	rs2031610	80.000	25	5	0	127	151	40	64	0.38	23.8
+rs7313895	rs2031610	100.000	11	0	0	12	22	111	101	1.3	21.1
+rs7313895	rs12369214	100.000	12	0	0	86	97	50	61	0.38	22.9
+rs7313895	rs6863411	100.000	11	0	0	88	98	77	67	1.3	21.1
+rs7313895	rs34884278	100.000	11	0	0	8	18	49	39	1.3	21.1
+# BLASTN 2.16.0+
+# Query: rs73178598
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+rs73178598	rs73178598	100.000	106	0	0	1	106	1	106	2.37e-52	192
+rs73178598	rs7831697	100.000	15	0	0	30	44	90	104	0.006	28.3
+rs73178598	rs7784778	100.000	11	0	0	9	19	47	57	0.88	21.1
+rs73178598	rs7660520	100.000	11	0	0	42	52	51	61	0.88	21.1
+# BLASTN 2.16.0+
+# Query: rs7404095
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs7404095	rs7404095	100.000	68	0	0	1	68	1	68	6.07e-32	123
+rs7404095	rs2549803	100.000	14	0	0	44	57	14	27	0.013	26.5
+rs7404095	rs1328454	100.000	11	0	0	17	27	67	77	0.53	21.1
+# BLASTN 2.16.0+
+# Query: rs7426056
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+rs7426056	rs7426056	100.000	80	0	0	1	80	1	80	2.20e-38	145
+rs7426056	rs12598357	86.364	22	3	0	1	22	6	27	0.015	27.4
+rs7426056	rs2738774	100.000	13	0	0	1	13	14	26	0.052	24.7
+rs7426056	rs7608910	88.235	17	2	0	56	72	20	4	0.18	22.9
+rs7426056	rs4728142	100.000	12	0	0	65	76	32	21	0.18	22.9
+rs7426056	rs79568124	100.000	11	0	0	12	22	27	37	0.63	21.1
+rs7426056	rs11614178	100.000	11	0	0	28	38	44	34	0.63	21.1
+# BLASTN 2.16.0+
+# Query: rs7468800
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs7468800	rs7468800	100.000	75	0	0	1	75	1	75	1.09e-35	136
+# BLASTN 2.16.0+
+# Query: rs74817271
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs74817271	rs74817271	100.000	82	0	0	1	82	1	82	1.86e-39	149
+rs74817271	rs72871627	100.000	13	0	0	43	55	32	20	0.053	24.7
+# BLASTN 2.16.0+
+# Query: rs74956615
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+rs74956615	rs74956615	100.000	89	0	0	1	89	1	89	3.26e-43	161
+rs74956615	rs1847472	100.000	13	0	0	6	18	18	30	0.059	24.7
+rs74956615	rs9797244	100.000	11	0	0	65	75	81	91	0.72	21.1
+rs74956615	rs62324212	100.000	11	0	0	19	29	26	16	0.72	21.1
+# BLASTN 2.16.0+
+# Query: rs7517847
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs7517847	rs7517847	100.000	69	0	0	1	69	1	69	1.77e-32	125
+# BLASTN 2.16.0+
+# Query: rs7552167
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs7552167	rs7552167	100.000	76	0	0	1	76	1	76	3.16e-36	138
+# BLASTN 2.16.0+
+# Query: rs755374
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs755374	rs755374	100.000	52	0	0	1	52	1	52	2.07e-23	95.1
+rs755374	rs469758	100.000	11	0	0	18	28	57	67	0.38	21.1
+rs755374	rs10865331	100.000	11	0	0	36	46	53	43	0.38	21.1
+# BLASTN 2.16.0+
+# Query: rs75547560
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+rs75547560	rs75547560	100.000	54	0	0	1	54	1	54	1.79e-24	98.7
+rs75547560	rs2075184	88.000	50	5	1	3	52	1	49	4.50e-13	60.8
+rs75547560	rs62131887	93.750	32	2	0	3	34	14	45	8.14e-10	50.0
+rs75547560	rs10988542	95.833	24	1	0	1	24	24	1	1.47e-06	40.1
+rs75547560	rs2738774	100.000	15	0	0	40	54	1	15	0.003	28.3
+rs75547560	rs2031610	100.000	12	0	0	39	50	114	125	0.11	22.9
+# BLASTN 2.16.0+
+# Query: rs7556897
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs7556897	rs7556897	100.000	97	0	0	1	97	1	97	1.64e-47	176
+rs7556897	rs174535	100.000	11	0	0	82	92	50	40	0.80	21.1
+# BLASTN 2.16.0+
+# Query: rs7608910
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs7608910	rs7608910	100.000	79	0	0	1	79	1	79	7.80e-38	143
+rs7608910	rs7426056	88.235	17	2	0	4	20	72	56	0.18	22.9
+rs7608910	rs6651252	100.000	12	0	0	1	12	30	19	0.18	22.9
+# BLASTN 2.16.0+
+# Query: rs76412624
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+rs76412624	rs76412624	100.000	104	0	0	1	104	1	104	2.82e-51	188
+rs76412624	rs1018326	100.000	14	0	0	65	78	65	78	0.020	26.5
+rs76412624	rs2402752	93.333	15	1	0	76	90	18	32	0.25	23.8
+rs76412624	rs34779708	100.000	11	0	0	67	77	59	49	0.86	21.1
+rs76412624	rs2111485	100.000	11	0	0	54	64	65	75	0.86	21.1
+# BLASTN 2.16.0+
+# Query: rs7660520
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+rs7660520	rs7660520	100.000	65	0	0	1	65	1	65	2.44e-30	118
+rs7660520	rs12131796	83.333	24	0	1	21	40	80	57	0.041	25.6
+rs7660520	rs73178598	100.000	11	0	0	51	61	42	52	0.50	21.1
+rs7660520	rs2807264	100.000	11	0	0	50	60	37	27	0.50	21.1
+# BLASTN 2.16.0+
+# Query: rs7672495
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs7672495	rs7672495	100.000	60	0	0	1	60	1	60	1.14e-27	109
+rs7672495	rs2050392	100.000	12	0	0	40	51	26	37	0.13	22.9
+# BLASTN 2.16.0+
+# Query: rs77150043
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+rs77150043	rs77150043	100.000	52	0	0	1	52	1	52	2.07e-23	95.1
+rs77150043	rs2328530	100.000	11	0	0	15	25	27	17	0.38	21.1
+rs77150043	rs1267499	100.000	11	0	0	2	12	32	22	0.38	21.1
+rs77150043	rs117372389	100.000	11	0	0	14	24	23	33	0.38	21.1
+# BLASTN 2.16.0+
+# Query: rs7725052
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs7725052	rs7725052	100.000	91	0	0	1	91	1	91	2.75e-44	165
+rs7725052	rs13388357	100.000	11	0	0	27	37	4	14	0.74	21.1
+# BLASTN 2.16.0+
+# Query: rs7731626
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs7731626	rs7731626	100.000	53	0	0	1	53	1	53	6.10e-24	96.9
+# BLASTN 2.16.0+
+# Query: rs7743761
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs7743761	rs7743761	100.000	81	0	0	1	81	1	81	6.40e-39	147
+# BLASTN 2.16.0+
+# Query: rs7784778
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs7784778	rs7784778	100.000	95	0	0	1	95	1	95	1.95e-46	172
+rs7784778	rs73178598	100.000	11	0	0	47	57	9	19	0.78	21.1
+# BLASTN 2.16.0+
+# Query: rs7805114
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs7805114	rs7805114	100.000	76	0	0	1	76	1	76	3.16e-36	138
+rs7805114	rs11614178	100.000	12	0	0	3	14	44	55	0.18	22.9
+rs7805114	rs4971079	100.000	11	0	0	58	68	82	92	0.61	21.1
+# BLASTN 2.16.0+
+# Query: rs7831697
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs7831697	rs7831697	100.000	106	0	0	1	106	1	106	2.37e-52	192
+rs7831697	rs73178598	100.000	15	0	0	90	104	30	44	0.006	28.3
+rs7831697	rs6600247	100.000	11	0	0	32	42	54	64	0.88	21.1
+# BLASTN 2.16.0+
+# Query: rs7848647
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs7848647	rs7848647	100.000	71	0	0	1	71	1	71	1.51e-33	129
+rs7848647	rs62324212	100.000	12	0	0	13	24	49	38	0.16	22.9
+rs7848647	rs2779255	92.857	14	1	0	6	19	45	58	0.56	22.0
+# BLASTN 2.16.0+
+# Query: rs7857730
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs7857730	rs7857730	100.000	137	0	0	1	137	1	137	4.70e-69	248
+rs7857730	rs4869313	100.000	11	0	0	12	22	24	14	1.2	21.1
+# BLASTN 2.16.0+
+# Query: rs7915475
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs7915475	rs7915475	100.000	83	0	0	1	83	1	83	5.41e-40	150
+rs7915475	rs11363316	100.000	11	0	0	68	78	77	67	0.66	21.1
+# BLASTN 2.16.0+
+# Query: rs7933433
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs7933433	rs7933433	100.000	75	0	0	1	75	1	75	1.09e-35	136
+rs7933433	rs12186979	100.000	11	0	0	6	16	61	71	0.60	21.1
+# BLASTN 2.16.0+
+# Query: rs7954567
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs7954567	rs7954567	100.000	68	0	0	1	68	1	68	6.07e-32	123
+# BLASTN 2.16.0+
+# Query: rs79568124
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+rs79568124	rs79568124	100.000	75	0	0	1	75	1	75	1.09e-35	136
+rs79568124	rs9554587	100.000	11	0	0	43	53	28	38	0.60	21.1
+rs79568124	rs7426056	100.000	11	0	0	27	37	12	22	0.60	21.1
+rs79568124	rs7281081	100.000	11	0	0	38	48	71	81	0.60	21.1
+# BLASTN 2.16.0+
+# Query: rs8006884
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+rs8006884	rs8006884	100.000	102	0	0	1	102	1	102	3.36e-50	185
+rs8006884	rs28701841	100.000	12	0	0	3	14	89	78	0.24	22.9
+rs8006884	rs2026029	92.857	14	1	0	84	97	102	89	0.85	22.0
+rs8006884	rs9494840	100.000	11	0	0	49	59	97	107	0.85	21.1
+# BLASTN 2.16.0+
+# Query: rs80174646
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs80174646	rs80174646	100.000	105	0	0	1	105	1	105	8.17e-52	190
+rs80174646	rs12758027	100.000	11	0	0	62	72	50	60	0.87	21.1
+# BLASTN 2.16.0+
+# Query: rs8036083
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs8036083	rs8036083	100.000	54	0	0	1	54	1	54	1.79e-24	98.7
+# BLASTN 2.16.0+
+# Query: rs8061882
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs8061882	rs8061882	100.000	50	0	0	1	50	1	50	2.39e-22	91.5
+# BLASTN 2.16.0+
+# Query: rs8070463
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs8070463	rs8070463	100.000	80	0	0	1	80	1	80	2.20e-38	145
+rs8070463	rs11750385	92.857	14	1	0	20	33	3	16	0.63	22.0
+# BLASTN 2.16.0+
+# Query: rs860262
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs860262	rs860262	100.000	145	0	0	1	145	1	145	2.28e-73	262
+rs860262	rs714830	92.857	14	1	0	60	73	41	54	1.3	22.0
+rs860262	rs72977586	100.000	11	0	0	111	121	57	67	1.3	21.1
+# BLASTN 2.16.0+
+# Query: rs871656
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs871656	rs871656	100.000	59	0	0	1	59	1	59	3.89e-27	107
+rs871656	rs11221332	93.750	16	1	0	25	40	81	66	0.036	25.6
+rs871656	rs7097656	100.000	11	0	0	48	58	2	12	0.44	21.1
+# BLASTN 2.16.0+
+# Query: rs925255
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs925255	rs925255	100.000	67	0	0	1	67	1	67	2.08e-31	122
+# BLASTN 2.16.0+
+# Query: rs928722
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+rs928722	rs928722	100.000	79	0	0	1	79	1	79	7.80e-38	143
+rs928722	rs1018326	100.000	12	0	0	12	23	52	41	0.18	22.9
+rs928722	rs10093384	100.000	12	0	0	42	53	118	107	0.18	22.9
+rs928722	rs1328454	92.857	14	1	0	52	65	19	32	0.64	22.0
+# BLASTN 2.16.0+
+# Query: rs9297145
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+rs9297145	rs9297145	100.000	71	0	0	1	71	1	71	1.51e-33	129
+rs9297145	rs13388357	100.000	11	0	0	29	39	44	54	0.56	21.1
+rs9297145	rs2066363	100.000	11	0	0	28	38	18	28	0.56	21.1
+rs9297145	rs12718244	100.000	11	0	0	52	62	85	75	0.56	21.1
+# BLASTN 2.16.0+
+# Query: rs941823
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs941823	rs941823	100.000	68	0	0	1	68	1	68	6.07e-32	123
+rs941823	rs2910686	92.857	14	1	0	19	32	35	48	0.53	22.0
+# BLASTN 2.16.0+
+# Query: rs9491891
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+rs9491891	rs9491891	100.000	101	0	0	1	101	1	101	1.16e-49	183
+rs9491891	rs11580078	100.000	14	0	0	65	78	39	52	0.020	26.5
+rs9491891	rs12987977	93.750	16	1	0	53	68	46	61	0.069	25.6
+rs9491891	rs2823288	93.333	15	1	0	18	32	79	93	0.24	23.8
+rs9491891	rs1326986	100.000	12	0	0	53	64	75	86	0.24	22.9
+rs9491891	rs1992661	100.000	11	0	0	55	65	55	65	0.84	21.1
+rs9491891	rs11749391	100.000	11	0	0	35	45	136	126	0.84	21.1
+# BLASTN 2.16.0+
+# Query: rs9554587
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs9554587	rs9554587	100.000	67	0	0	1	67	1	67	2.08e-31	122
+rs9554587	rs79568124	100.000	11	0	0	28	38	43	53	0.52	21.1
+# BLASTN 2.16.0+
+# Query: rs9687958
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+rs9687958	rs9687958	100.000	86	0	0	1	86	1	86	1.33e-41	156
+rs9687958	rs497871	93.333	15	1	0	50	64	19	5	0.20	23.8
+rs9687958	rs28701841	100.000	12	0	0	21	32	112	101	0.20	22.9
+rs9687958	rs1182188	92.857	14	1	0	34	47	36	49	0.69	22.0
+rs9687958	rs1992661	100.000	11	0	0	1	11	71	61	0.69	21.1
+# BLASTN 2.16.0+
+# Query: rs9797244
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 10 hits found
+rs9797244	rs9797244	100.000	97	0	0	1	97	1	97	1.64e-47	176
+rs9797244	rs2031610	86.957	23	3	0	18	40	131	153	0.005	29.2
+rs9797244	rs17466626	93.333	15	1	0	45	59	88	74	0.23	23.8
+rs9797244	rs7857730	100.000	12	0	0	22	33	44	55	0.23	22.9
+rs9797244	rs235316	88.235	17	2	0	27	43	34	50	0.23	22.9
+rs9797244	rs74956615	100.000	11	0	0	81	91	65	75	0.80	21.1
+rs9797244	rs4552569	100.000	11	0	0	80	90	21	11	0.80	21.1
+rs9797244	rs3118471	100.000	11	0	0	26	36	46	36	0.80	21.1
+rs9797244	rs2042011	100.000	11	0	0	18	28	61	51	0.80	21.1
+rs9797244	rs11614178	100.000	11	0	0	59	69	8	18	0.80	21.1
+# BLASTN 2.16.0+
+# Query: rs9889296
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+rs9889296	rs9889296	100.000	95	0	0	1	95	1	95	1.95e-46	172
+rs9889296	rs3118471	78.049	41	6	2	40	79	27	65	0.005	28.3
+rs9889296	rs497871	100.000	12	0	0	35	46	51	62	0.22	22.9
+rs9889296	rs2042011	100.000	12	0	0	38	49	7	18	0.22	22.9
+rs9889296	rs10093384	84.211	19	3	0	36	54	31	13	0.78	22.0
+rs9889296	rs3853824	100.000	11	0	0	45	55	31	41	0.78	21.1
+# BLASTN 2.16.0+
+# Query: rs9901869
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs9901869	rs9901869	100.000	75	0	0	1	75	1	75	1.09e-35	136
+# BLASTN 2.16.0+
+# Query: rs9977672
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs9977672	rs9977672	100.000	64	0	0	1	64	1	64	8.34e-30	116
+rs9977672	rs6781808	92.857	14	1	0	36	49	32	19	0.49	22.0
+# BLASTN 2.16.0+
+# Query: rs10000518
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs10000518	rs10000518	100.000	61	0	0	1	61	1	61	3.33e-28	111
+# BLASTN 2.16.0+
+# Query: rs10094579
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs10094579	rs10094579	100.000	74	0	0	1	74	1	74	3.73e-35	134
+# BLASTN 2.16.0+
+# Query: rs111305875
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs111305875	rs111305875	100.000	42	0	0	1	42	1	42	4.31e-18	77.0
+# BLASTN 2.16.0+
+# Query: rs114202211
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs114202211	rs114202211	100.000	87	0	0	1	87	1	87	3.86e-42	158
+rs114202211	rs11209026	100.000	14	0	0	7	20	84	71	0.016	26.5
+rs114202211	rs12879003	100.000	12	0	0	8	19	44	55	0.20	22.9
+# BLASTN 2.16.0+
+# Query: rs116046827
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs116046827	rs116046827	100.000	59	0	0	1	59	1	59	3.89e-27	107
+# BLASTN 2.16.0+
+# Query: rs11691685
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+rs11691685	rs11691685	100.000	122	0	0	1	122	1	122	5.73e-61	221
+rs11691685	rs11221332	100.000	12	0	0	102	113	22	11	0.30	22.9
+rs11691685	rs2812378	100.000	11	0	0	108	118	52	62	1.0	21.1
+rs11691685	rs2429929	100.000	11	0	0	50	60	16	6	1.0	21.1
+rs11691685	rs12232497	100.000	11	0	0	54	64	15	5	1.0	21.1
+# BLASTN 2.16.0+
+# Query: rs11871012
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs11871012	rs11871012	100.000	100	0	0	1	100	1	100	4.00e-49	181
+# BLASTN 2.16.0+
+# Query: rs13388357
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+rs13388357	rs13388357	100.000	117	0	0	1	117	1	117	2.83e-58	212
+rs13388357	rs12232497	93.750	16	1	0	57	72	24	9	0.081	25.6
+rs13388357	rs28701841	100.000	12	0	0	101	112	74	85	0.28	22.9
+rs13388357	rs353339	92.857	14	1	0	101	114	78	91	0.99	22.0
+rs13388357	rs9297145	100.000	11	0	0	44	54	29	39	0.99	21.1
+rs13388357	rs7725052	100.000	11	0	0	4	14	27	37	0.99	21.1
+# BLASTN 2.16.0+
+# Query: rs1580226
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs1580226	rs1580226	100.000	151	0	0	1	151	1	151	1.32e-76	273
+rs1580226	rs10440635	88.889	18	2	0	4	21	21	38	0.11	24.7
+# BLASTN 2.16.0+
+# Query: rs17229679
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs17229679	rs17229679	100.000	69	0	0	1	69	1	69	1.77e-32	125
+# BLASTN 2.16.0+
+# Query: rs17622517
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs17622517	rs17622517	100.000	65	0	0	1	65	1	65	2.44e-30	118
+rs17622517	rs587259	100.000	12	0	0	39	50	12	23	0.14	22.9
+rs17622517	rs62097857	100.000	11	0	0	37	47	30	20	0.50	21.1
+# BLASTN 2.16.0+
+# Query: rs183686347
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs183686347	rs183686347	100.000	91	0	0	1	91	1	91	2.75e-44	165
+rs183686347	rs2549803	100.000	11	0	0	19	29	58	48	0.74	21.1
+# BLASTN 2.16.0+
+# Query: rs28701841
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 14 hits found
+rs28701841	rs28701841	100.000	136	0	0	1	136	1	136	1.63e-68	246
+rs28701841	rs2031610	77.778	36	6	1	58	91	161	126	0.028	27.4
+rs28701841	rs12942547	100.000	13	0	0	67	79	49	37	0.096	24.7
+rs28701841	rs12146962	100.000	13	0	0	108	120	33	45	0.096	24.7
+rs28701841	rs10889676	93.333	15	1	0	72	86	43	57	0.34	23.8
+rs28701841	rs13388357	100.000	12	0	0	74	85	101	112	0.34	22.9
+rs28701841	rs9687958	100.000	12	0	0	101	112	32	21	0.34	22.9
+rs28701841	rs8006884	100.000	12	0	0	78	89	14	3	0.34	22.9
+rs28701841	rs17466626	100.000	12	0	0	67	78	54	43	0.34	22.9
+rs28701841	rs7281081	92.857	14	1	0	84	97	3	16	1.2	22.0
+rs28701841	rs79568124	100.000	11	0	0	65	75	25	15	1.2	21.1
+rs28701841	rs6693105	100.000	11	0	0	120	130	59	49	1.2	21.1
+rs28701841	rs4672505	100.000	11	0	0	3	13	29	19	1.2	21.1
+rs28701841	rs10440635	100.000	11	0	0	31	41	57	47	1.2	21.1
+# BLASTN 2.16.0+
+# Query: rs35018800
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+rs35018800	rs35018800	100.000	47	0	0	1	47	1	47	9.33e-21	86.0
+rs35018800	rs1992661	100.000	13	0	0	22	34	37	25	0.027	24.7
+rs35018800	rs1992661	100.000	12	0	0	21	32	26	15	0.093	22.9
+rs35018800	rs1992661	100.000	11	0	0	22	32	19	9	0.33	21.1
+rs35018800	rs1992661	100.000	11	0	0	22	32	22	12	0.33	21.1
+rs35018800	rs3774937	100.000	11	0	0	5	15	20	10	0.33	21.1
+# BLASTN 2.16.0+
+# Query: rs35874463
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs35874463	rs35874463	100.000	56	0	0	1	56	1	56	1.54e-25	102
+rs35874463	rs7857730	100.000	11	0	0	3	13	122	112	0.41	21.1
+rs35874463	rs12720356	100.000	11	0	0	32	42	56	46	0.41	21.1
+# BLASTN 2.16.0+
+# Query: rs7115956
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs7115956	rs7115956	100.000	81	0	0	1	81	1	81	6.40e-39	147
+rs7115956	rs4802307	92.857	14	1	0	54	67	10	23	0.64	22.0
+# BLASTN 2.16.0+
+# Query: rs72796367
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs72796367	rs72796367	100.000	78	0	0	1	78	1	78	2.68e-37	141
+rs72796367	rs10781500	100.000	11	0	0	20	30	3	13	0.63	21.1
+# BLASTN 2.16.0+
+# Query: rs72871627
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+rs72871627	rs72871627	100.000	102	0	0	1	102	1	102	3.36e-50	185
+rs72871627	rs74817271	100.000	13	0	0	20	32	55	43	0.069	24.7
+rs72871627	rs1405108	84.000	25	1	2	22	43	72	48	0.85	22.0
+rs72871627	rs7100025	100.000	11	0	0	70	80	11	1	0.85	21.1
+rs72871627	rs11624293	100.000	11	0	0	91	101	42	52	0.85	21.1
+# BLASTN 2.16.0+
+# Query: rs72977586
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+rs72977586	rs72977586	100.000	73	0	0	1	73	1	73	1.28e-34	132
+rs72977586	rs860262	100.000	11	0	0	57	67	111	121	0.58	21.1
+# BLASTN 2.16.0+
+# Query: rs7874251
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+rs7874251	rs7874251	100.000	89	0	0	1	89	1	89	3.26e-43	161
+rs7874251	rs1580226	100.000	11	0	0	67	77	76	86	0.72	21.1
+rs7874251	rs2910686	100.000	11	0	0	25	35	12	2	0.72	21.1
+# BLASTN 2.16.0+
+# Query: rs79493594
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs79493594	rs79493594	100.000	58	0	0	1	58	1	58	1.33e-26	105
+# BLASTN 2.16.0+
+# Query: rs9494840
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+rs9494840	rs9494840	100.000	130	0	0	1	130	1	130	2.80e-65	235
+rs9494840	rs12968719	100.000	16	0	0	13	28	78	63	0.002	30.1
+rs9494840	rs8006884	100.000	11	0	0	97	107	49	59	1.1	21.1
+rs9494840	rs1328454	100.000	11	0	0	28	38	68	58	1.1	21.1
+# BLASTN 2.16.0+
+# Query: rs9947182
+# Database: probe_GC
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+rs9947182	rs9947182	100.000	73	0	0	1	73	1	73	1.28e-34	132
+# BLAST processed 362 queries
